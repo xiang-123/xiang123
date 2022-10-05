@@ -16,9 +16,14 @@
       - It is assessed by asking people to respond to questions such as “In general, how satisfied are you with your life?”, with re- sponses ranging from ”very dissatisfied” to ”very satisfied” (Diener et al. 1985). 
       - The response to such simple questions has provided useful comparisons of well-being both within and between nations (Diener et al. 2010). 
       - Although LS is a single indicator, it is influenced by many important areas of life such as having sufficient food and shelter, good re- lationships, and having the freedom to choose one’s daily activities (Diener et al. 1985).
+- [OECD Guidelines on Measuring Subjective Well-being](https://www.oecd-ilibrary.org/docserver/9789264191655-en.pdf?expires=1664981341&id=id&accname=guest&checksum=57AE0F17A1C9B52EED835D6CC2E251AE)
+  - 自分の考え：社会学分野、人口統計学分野、すごく複雑なので、使えない
+  
+   
+<img width="697" alt="スクリーンショット 2022-10-05 23 52 52" src="https://user-images.githubusercontent.com/62456878/194092002-2ad45d97-f6d5-45a5-8db3-8b15060a7a7d.png">
 
 ### 測定期間
-- 一回
+- 一回だけ
 ### hint sentences（original text）
 - p583-584
   - Psychologists still argue about how happi- ness should be defined, but few would deny that people de- sire it.
