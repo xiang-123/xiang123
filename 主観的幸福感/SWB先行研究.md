@@ -94,7 +94,6 @@ Richard E. Lucas　Michigan State University 583　Kubzansky 2012), career outco
 
 # 先行研究4（もらったヒント：定義・尺度・測定期間）
 ## 論文：[Adolescents’ wellbeing while using a mobile AI-powered acceptance commitment therapy tool: evidence from a longitudinal study](https://github.com/kikuchiken-waseda/Xiang-Lingxuan/blob/master/M1/%E5%85%88%E8%A1%8C%E7%A0%94%E7%A9%B6/Previous%20studies/wellbeing%20AI/Adolescents%E2%80%99%20wellbeing%20while%20using%20a%20mobile%20AI-powered%20acceptance%20commitment%20therapy%20tool:%20evidence%20from%20a%20longitudinal%20study.pdf)
-- [自分のまとめ](https://github.com/kikuchiken-waseda/Xiang-Lingxuan/blob/master/M1/seminar/spring/20220711%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%83%E3%83%88%E5%AD%A6%E4%BC%9A.md)
 ### 定義
 - 人生満足感
   - 「measured by satisfaction with school, family, friends, school work, appearance, and life as a whole」　
@@ -103,6 +102,7 @@ Richard E. Lucas　Michigan State University 583　Kubzansky 2012), career outco
 ### 測定期間
 - 2週間ごとに1回(合計4週間)
 ### hint sentences&keywords（original text）
+- [自分のまとめ](https://github.com/kikuchiken-waseda/Xiang-Lingxuan/blob/master/M1/seminar/spring/20220711%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%83%E3%83%88%E5%AD%A6%E4%BC%9A.md)
 
 # 先行研究5（もらったヒント：定義）
 - [1997MEASURING QUALITY OF LIFE: ECONOMIC,SOCIAL,AND SUBJECTIVE INDICATORS](https://link-springer-com.waseda.idm.oclc.org/content/pdf/10.1023/A:1006859511756.pdf)
@@ -110,4 +110,51 @@ Richard E. Lucas　Michigan State University 583　Kubzansky 2012), career outco
 ### 定義
 - subjective well-being consists of **three interrelated components**: **life satisfaction**, **pleasant affect**, and **unpleasant affect**. Affect refers to pleasant and unpleasant moods and emotions, whereas **life satisfaction refers to a cognitive sense of satisfaction with life**
     - ！！！ネガポジと生活満足度がお互いに関連している！！！（2003年Dienerのまとめ「ある程度独立している、分ける測定べき」と矛盾ではないと思う）
+
+# 先行研究6（もらったヒント：尺度）
+- 詳細：[Personal Wellbeing Index – Adult!](https://user-images.githubusercontent.com/62456878/194130536-198d120a-2636-47e9-8e73-4678a9886d2e.png)
+### 尺度
+
+<img width="374" alt="image" src="https://user-images.githubusercontent.com/62456878/194130677-9e9f16f1-4c6b-4af8-83a1-11ecf6d50973.png">
+
+- 対象：オーストラリア成人
+- 有効性検証した
+- 社会学分野のアンケート（社会調査用）
+
+# 先行研究7（もらったヒント：尺度）
+- 詳細： [1985The Satisfaction with Life Scale.](http://labs.psychology.illinois.edu/~ediener/SWLS.html)
+- Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985).
+- Journal of Personality Assessment, 49, 71-75. 
+### 尺度
+
+<img width="434" alt="image" src="https://user-images.githubusercontent.com/62456878/194131761-bb383d06-929e-4b36-87d4-ab1da6f34525.png">
+
+
+- 社会関係、仕事、学校、家庭、自分の成長・精神生活などへ評価できる→私がみたい一部
+- 一般用、追跡調査用（毎日・毎週などの追跡調査OK）
+- 多言語使用OK
+
+# 先行研究8（もらったヒント：尺度）
+- 詳細：[WHO-5](http://www.med.oita-u.ac.jp/oita-lcde/WHO-5%5B1%5D.pdf![image](https://user-images.githubusercontent.com/62456878/194132364-af0026d6-53e7-4aac-825c-6cb0bc621dde.png)
+)
+  - 「The 5-item World Health Organization Well-Being Index (WHO-5) is a short and generic global rating scale measuring subjective well-being.」
+ 
+- 成人の通用性、有効性すでに検証された
+- ２週間そのまま使うOK
+- 内容はポジティブ・ネガティブを測ることができる(positive affect + negative affect)
+- 多言語使用OK
+
+# 先行研究8（もらったヒント：尺度）
+- 詳細：[Affectometer 2: A scale to measure current level of general happiness](https://www.tandfonline.com/doi/pdf/10.1080/00049538308255070?needAccess=true![image](https://user-images.githubusercontent.com/62456878/194132684-63d23a1e-65f9-4f16-9623-4cd3a8647eef.png)
+### 尺度
+
+<img width="425" alt="image" src="https://user-images.githubusercontent.com/62456878/194132773-e993a043-54cc-4dd8-a23b-639e46dc3ec9.png">
+
+- ５段階評価
+- 項目内容が自分がみたいこと
+- 毎週/1回評価OK
+- 成人の有効性検証された
+
+
+
 
