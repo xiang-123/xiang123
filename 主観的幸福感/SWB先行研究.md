@@ -74,7 +74,7 @@ Richard E. Lucas　Michigan State University 583　Kubzansky 2012), career outco
 # 先行研究3（もらったヒント：定義）
 ## 論文：[2003Personality, Culture, and Subjective Well-Being: Emotional and Cognitive Evaluations of Life](https://www.researchgate.net/publication/11215086_Personality_Culture_and_Subjective_Well-Being_Emotional_and_Cognitive_Evaluations_of_Life)
 - February 2003Annual Review of Psychology 54(1):403-25
-- 
+- Ed Diener, Shigehiro Oishi,Richard E Lucas
 ### 定義
 - 「Subjectivewell-being(SWB),people’semotionalandcognitiveevalu- ations of their lives, includes what lay people call happiness, peace, fulfillment, and life satisfaction. 」
 - 「The field of subjective well-being (SWB) comprises the scientific analysis of how people evaluate their lives—both at the moment and for longer periods such as for the past year. 」
@@ -85,7 +85,6 @@ Richard E. Lucas　Michigan State University 583　Kubzansky 2012), career outco
 - ない
 ### 測定期間
 - ない
-
 ### hint sentences&keywords（original text）
 - p404
   - 「Another influence on the field came from researchers working in the area of mental health, who wanted to extend the idea of mental health beyond the absence of symptoms of depression and distress to also include the presence of happiness　and **life satisfaction** (e.g., Jahoda 1958). 」
@@ -93,5 +92,17 @@ Richard E. Lucas　Michigan State University 583　Kubzansky 2012), career outco
   - 「SWB is measured in a variety of ways. For the　 **emotional components**, for exam-ple feelings of joy and contentment, broad survey measures have been used (e.g., “In general how happy are you?”), as well as experience sampling of moods and emotions over time and informant reports from family and friends. 」
   - 「**The cognitive component of SWB has been assessed with life satisfaction surveys and also with measures of satisfaction and fulfillment in various life domains** such as marriage, work, and leisure (see Sandvik et al. 1993 for a description of alternative methods of measurement of SWB).」
 
-# 先行研究3
-# 先行研究3
+# 先行研究4（もらったヒント：定義・尺度・測定期間）
+## 論文：[Adolescents’ wellbeing while using a mobile AI-powered acceptance commitment therapy tool: evidence from a longitudinal study](https://github.com/kikuchiken-waseda/Xiang-Lingxuan/blob/master/M1/%E5%85%88%E8%A1%8C%E7%A0%94%E7%A9%B6/Previous%20studies/wellbeing%20AI/Adolescents%E2%80%99%20wellbeing%20while%20using%20a%20mobile%20AI-powered%20acceptance%20commitment%20therapy%20tool:%20evidence%20from%20a%20longitudinal%20study.pdf)
+- [自分のまとめ](https://github.com/kikuchiken-waseda/Xiang-Lingxuan/blob/master/M1/seminar/spring/20220711%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%83%E3%83%88%E5%AD%A6%E4%BC%9A.md)
+### 定義
+- 人生満足感
+  - 「measured by satisfaction with school, family, friends, school work, appearance, and life as a whole」　
+### 尺度
+- WHO-5
+### 測定期間
+- 2週間ごとに1回(合計4週間)
+### hint sentences&keywords（original text）
+
+# 先行研究5
+
