@@ -41,7 +41,7 @@ Richard E. Lucas　Michigan State University 583　Kubzansky 2012), career outco
   - Achievement (accomplish, achieve, attain. . . )
 
 
-# 先行研究2
+# 先行研究2（もらったヒント：定義=QOL・尺度・測定期間）
 ## 論文：[2022Experiences of a Speech-enabled Conversational Agent for the Self-report of Well-being among People Living with Affective Disorders- An In-the-Wild Study](https://dl.acm.org/doi/pdf/10.1145/3484508)
 - Raju Maharjan, Kevin Doherty, Darius Adam Rohani, Per Bækgaard, Jakob E. Bardram
 - ACM Transactions on Interactive Intelligent SystemsVolume 12Issue 2June 2022 Article No.: 10pp 1–29https://doi.org/10.1145/3484508
@@ -62,12 +62,36 @@ Richard E. Lucas　Michigan State University 583　Kubzansky 2012), career outco
         - [WHO-5 精神的健康状態表(1998年版)日本語](http://www.med.oita-u.ac.jp/oita-lcde/WHO-5%5B1%5D.pdf)
         - [WHO-5 精神的健康状態表(1998年版)中国語](https://www.psykiatri-regionh.dk/who-5/Documents/WHO5_Chinese_PR.pdf)
 ### 測定期間
-- 
+- 2週間ごとに1回(合計4週間)
 
 ### hint sentences&keywords（original text）
 - p10:2
   - Speech-enabled CAs, in comparison, may offer the opportunity to obtain richer insight into individuals’ experience of mental health and illness—whether for sharing with health profession- als [65], to support individuals’ own insight [50], or perhaps even to serve as part of health and well-being interventions [28, 86]. 
   - **Studies have shown that speech, as a primary mode of commu- nication, can engage users in more natural and human-to-humanlike conversations, suggesting the potential of these systems to improve user engagement and self-report response quality while fostering more honest and insightful forms of self-disclosure [23, 50].**
   - Smart speaker devices including Google’s Home and Amazon’s Alexa have seen a surge in popu-larity in recent years following advancements in speech recognition technology—rendering these technologies increasingly feasible means of interaction and even leading to increased application of these systems in healthcare [38, 40, 41, 44, 66, 84]. **According to one recent survey, 52.0% of 1,004 U.S. adults possess an interest in the use of Conversational Agent (CA)s, while 7.5% have already made use of a CA for a healthcare-related task or inquiry, from inquiring about symptoms of illness (73.0%), to searching for information concerning medication use (45.9%), or seeking care and treatment options (37.7%) [11].**
-  - 
-  - 
+
+
+# 先行研究3（もらったヒント：定義）
+## 論文：[2003Personality, Culture, and Subjective Well-Being: Emotional and Cognitive Evaluations of Life](https://www.researchgate.net/publication/11215086_Personality_Culture_and_Subjective_Well-Being_Emotional_and_Cognitive_Evaluations_of_Life)
+- February 2003Annual Review of Psychology 54(1):403-25
+- 
+### 定義
+- 「Subjectivewell-being(SWB),people’semotionalandcognitiveevalu- ations of their lives, includes what lay people call happiness, peace, fulfillment, and life satisfaction. 」
+- 「The field of subjective well-being (SWB) comprises the scientific analysis of how people evaluate their lives—both at the moment and for longer periods such as for the past year. 」
+  - 「These evaluations include people’s emotional reactions to events, their moods, and judgments they form about their life satisfaction, fulfillment, and satisfaction with domains such as marriage and work.」
+- 「Although each of the components of SWB reflects people’s evaluations of what is happening in their lives, the facets of SWB such as **positive affect**, **lack of negative affect**, and **life satisfaction** show some degree of **independence** (Andrews & Withey 1976, Lucas et al. 1996) and **therefore should be measured and studied individually.**」
+  - ！！！ネガポジと生活満足度が独立している、分けて測るべきである！！！
+### 尺度
+- ない
+### 測定期間
+- ない
+
+### hint sentences&keywords（original text）
+- p404
+  - 「Another influence on the field came from researchers working in the area of mental health, who wanted to extend the idea of mental health beyond the absence of symptoms of depression and distress to also include the presence of happiness　and **life satisfaction** (e.g., Jahoda 1958). 」
+ - p405
+  - 「SWB is measured in a variety of ways. For the　 **emotional components**, for exam-ple feelings of joy and contentment, broad survey measures have been used (e.g., “In general how happy are you?”), as well as experience sampling of moods and emotions over time and informant reports from family and friends. 」
+  - 「**The cognitive component of SWB has been assessed with life satisfaction surveys and also with measures of satisfaction and fulfillment in various life domains** such as marriage, work, and leisure (see Sandvik et al. 1993 for a description of alternative methods of measurement of SWB).」
+
+# 先行研究3
+# 先行研究3
