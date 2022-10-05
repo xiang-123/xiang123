@@ -24,7 +24,7 @@
 
 ### 測定期間
 - 一回だけ
-### hint sentences（original text）
+### hint sentences&keywords（original text）
 - p583-584
   - Psychologists still argue about how happi- ness should be defined, but few would deny that people de- sire it.
   - it is important to not only measure well-being, but also attend to factors that contribute to, support, and improve it (Abramovitz, Scitovsky, and Inkeles 1973; Layard 2005; Seligman 2011)
