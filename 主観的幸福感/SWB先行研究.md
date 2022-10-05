@@ -80,7 +80,7 @@ Richard E. Lucas　Michigan State University 583　Kubzansky 2012), career outco
 - 「The field of subjective well-being (SWB) comprises the scientific analysis of how people evaluate their lives—both at the moment and for longer periods such as for the past year. 」
   - 「These evaluations include people’s emotional reactions to events, their moods, and judgments they form about their life satisfaction, fulfillment, and satisfaction with domains such as marriage and work.」
 - 「Although each of the components of SWB reflects people’s evaluations of what is happening in their lives, the facets of SWB such as **positive affect**, **lack of negative affect**, and **life satisfaction** show some degree of **independence** (Andrews & Withey 1976, Lucas et al. 1996) and **therefore should be measured and studied individually.**」
-  - ！！！ネガポジと生活満足度が独立している、分けて測るべきである！！！
+  - ！！！ネガポジと生活満足度がある意味独立している、分けて測るべきである！！！
 ### 尺度
 - ない
 ### 測定期間
@@ -104,5 +104,10 @@ Richard E. Lucas　Michigan State University 583　Kubzansky 2012), career outco
 - 2週間ごとに1回(合計4週間)
 ### hint sentences&keywords（original text）
 
-# 先行研究5
+# 先行研究5（もらったヒント：定義）
+- [1997MEASURING QUALITY OF LIFE: ECONOMIC,SOCIAL,AND SUBJECTIVE INDICATORS](https://link-springer-com.waseda.idm.oclc.org/content/pdf/10.1023/A:1006859511756.pdf)
+- Diener and Suh (1997)
+### 定義
+- subjective well-being consists of **three interrelated components**: **life satisfaction**, **pleasant affect**, and **unpleasant affect**. Affect refers to pleasant and unpleasant moods and emotions, whereas **life satisfaction refers to a cognitive sense of satisfaction with life**
+    - ！！！ネガポジと生活満足度がお互いに関連している！！！（2003年Dienerのまとめ「ある程度独立している、分ける測定べき」と矛盾ではないと思う）
 
