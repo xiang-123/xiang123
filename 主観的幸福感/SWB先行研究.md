@@ -41,18 +41,39 @@ Richard E. Lucas　Michigan State University 583　Kubzansky 2012), career outco
   - Achievement (accomplish, achieve, attain. . . )
 
 
-
-
-
-# 先行研究1
-## 論文：[Characterizing Geographic Variation in Well-Being Using Tweets](https://ojs.aaai.org/index.php/ICWSM/article/view/14442)
-- Vol. 7 No. 1 (2013): Seventh International AAAI Conference on Weblogs and Social Media
-- 被引用数：273（2022/10時点）
+# 先行研究2
+## 論文：[Avowed Happiness as an Overall Assessment of the Quality of Life](https://www.jstor.org/stable/27521880#:~:text=The%20theory%20suggests%20that%20happiness,others%20and%20in%20the%20past.)
+- - D. C. Shin and D. M. Johnson(1978)
 ### 定義
-- 
+- 「happiness is primarily a product of the positive assessments of life situations and favorable comparisons of these life situations with those of others and in the past.」
+  - this judgement is still reflected in today’s literature (Zikmund, 2003; Rees, Goswami, & Bradshaw 2010; Stratham & Chase, 2010). 
 ### 尺度()
 - 
 ### 測定期間
 - 
 ### ヒント
-- 
+
+先行研究1 
+- [Avowed Happiness as an Overall Assessment of the Quality of Life](https://www.jstor.org/stable/27521880#:~:text=The%20theory%20suggests%20that%20happiness,others%20and%20in%20the%20past.)
+- D. C. Shin and D. M. Johnson(1978)
+- 定義：happiness is primarily a product of the positive assessments of life situations and favorable comparisons of these life situations with those of others and in the past. (幸福主要是对生活状况的积极评价以及对这些生活状况与其他人或过去的生活状况进行有利的比较的结果。)
+    - this judgement is still reflected in today’s literature (Zikmund, 2003; Rees, Goswami, & Bradshaw 2010; Stratham & Chase, 2010). 
+- quality of life
+    - **WHOによる定義**
+        - an individual’s perception of their position in life in the context of the culture and value systems in which they live and in relation to their goals, expectations, standards and concerns. It is a broad ranging concept affected in a complex way by the person’s physical health, psychological state, personal beliefs, social relationships and their relationship to salient features of their environment (World Health Organization, 1997)个人在其所处的文化和价值体系背景下，以及在与其目标、期望、标准和关注点相关的情况下，对其在生活中地位的看法。它是一个范围广泛的概念，以复杂的方式受到人的身体健康、心理状态、个人信仰、社会关系及其与环境显著特征的关系的影响。
+        - Dodge(2012):**a problem with the term ‘quality of life’ is that it is used interchangeably with ‘wellbeing’ in a variety of disciplines.(“quality of life”这个术语的一个问题是，它与“wellbeing”在各种学科中可以互换使用)**
+    - [WHO WELLBEING MEASURES IN PRIMARY HEALTH CARE](https://www.euro.who.int/__data/assets/pdf_file/0016/130750/E60246.pdf)
+        - World Health Organisation- Five Well-Being Index (WHO-5):a short self-reported measure of current mental wellbeing.
+    - WHO-5の詳細情報
+        - https://www.corc.uk.net/outcome-experience-measures/the-world-health-organisation-five-well-being-index-who-5/#:~:text=Overview-,The%20World%20Health%20Organisation%2D%20Five%20Well%2DBeing%20Index%20(WHO,measures%20in%20primary%20health%20care.
+        - Psychometric properties（心理测量特性）:The WHO-5 has been found to have adequate validity in screening for depression and in measuring outcomes in clinical trials. Item response theory analyses in studies of younger persons and elderly persons indicate that the measure has good construct validity as a unidimensional scale measuring well-being in these populations (Winther Topp et al., 2015).已发现 WHO-5 在筛查抑郁症和测量临床试验结果方面具有足够的效度。对年轻人和老年人的研究中的项目反应理论分析表明，该测量作为一维量表具有良好的结构效度衡量这些人群的幸福感
+        -  (Winther Topp et al., 2015論文）：[The WHO-5 Well-Being Index: a systematic review of the literature](https://pubmed.ncbi.nlm.nih.gov/25831962/)
+            - 結論：「the WHO-5 is a highly useful tool that can be applied in both clinical practice (for instance to screen for depression) as well as in research studies in order to assess well-being over time or to compare well-being between groups.」 （WHO-5是一个非常有用的工具，可以应用于临床实践（例如筛查抑郁症）和研究，以评估一段时间内的幸福感或比较各组之间的幸福感。）   
+            - :monocle_face:WHO-5日本語版は使えそう     
+        -  The WHO-5 is free of charge and does not require permission to use.
+        - [WHO-5 精神的健康状態表(1998年版)英語](https://www.psykiatri-regionh.dk/who-5/Documents/WHO-5%20questionaire%20-%20English.pdf)
+        - [WHO-5 精神的健康状態表(1998年版)日本語](http://www.med.oita-u.ac.jp/oita-lcde/WHO-5%5B1%5D.pdf)
+        - [WHO-5 精神的健康状態表(1998年版)中国語](https://www.psykiatri-regionh.dk/who-5/Documents/WHO5_Chinese_PR.pdf)
+        - :monocle_face:WHOの幸福感の測定は最近2週間の状態を考えるもの
+            - 自分の幸福感実験の間隔は2週間以上設定すべきか？という疑問を持っている
+
