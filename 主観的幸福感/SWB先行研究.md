@@ -2,7 +2,7 @@
 # 調べる目的
 - 自分の研究におけるSWBの定義・尺度・測定期間を決めるため
 
-# 先行研究1
+# 先行研究1（もらったヒント：定義・尺度）
 ## 論文：[Characterizing Geographic Variation in Well-Being Using Tweets](https://ojs.aaai.org/index.php/ICWSM/article/view/14442)
 - Vol. 7 No. 1 (2013): Seventh International AAAI Conference on Weblogs and Social Media
 - H. Andrew Schwartz,∗ Johannes C. Eichstaedt,∗ Margaret L. Kern, Lukasz Dziurzynski, Megha Agrawal Gregory J. Park, Shrinidhi K. Lakshmikanth, Sneha Jha, Martin E. P. Seligman, and Lyle Ungar
