@@ -9,8 +9,10 @@
 - 被引用数：273（2022/10時点）
 ### 定義
 - 「Subjective well-being refers to how people evaluate their lives in terms of cognition (i.e., satisfaction with life) and emotion (positive and negative emotion). 」
-### 尺度()
-- 
+### 尺度
+- 生活満足度（life satisfaction・LS）
+  - 「Here, we specifically focus on the cognitive-based evalu- ation of overall life satisfaction (LS), a broader evaluation of well-being than emotion alone provides.」
+  - 「Our goal here is not to count positive sentiment words, but study the language of well-being, to better understand the multiple components that contribute to it.」
 ### 測定期間
 - 
 ### hint sentences（original text）
