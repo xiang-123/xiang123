@@ -57,10 +57,10 @@ Richard E. Lucas　Michigan State University 583　Kubzansky 2012), career outco
        - Psychometric properties（心理测量特性）:The WHO-5 has been found to have adequate validity in screening for depression and in measuring outcomes in clinical trials. Item response theory analyses in studies of younger persons and elderly persons indicate that the measure has good construct validity as a unidimensional scale measuring well-being in these populations (Winther Topp et al., 2015).
        -  (Winther Topp et al., 2015）：[The WHO-5 Well-Being Index: a systematic review of the literature](https://pubmed.ncbi.nlm.nih.gov/25831962/)
             - 結論：「the WHO-5 is a highly useful tool that can be applied in both clinical practice (for instance to screen for depression) as well as in research studies in order to assess well-being over time or to compare well-being between groups.」 
-        -  The WHO-5 is free of charge and does not require permission to use.
-        - [WHO-5 精神的健康状態表(1998年版)英語](https://www.psykiatri-regionh.dk/who-5/Documents/WHO-5%20questionaire%20-%20English.pdf)
-        - [WHO-5 精神的健康状態表(1998年版)日本語](http://www.med.oita-u.ac.jp/oita-lcde/WHO-5%5B1%5D.pdf)
-        - [WHO-5 精神的健康状態表(1998年版)中国語](https://www.psykiatri-regionh.dk/who-5/Documents/WHO5_Chinese_PR.pdf)
+            -  The WHO-5 is free of charge and does not require permission to use.
+            - [WHO-5 精神的健康状態表(1998年版)英語](https://www.psykiatri-regionh.dk/who-5/Documents/WHO-5%20questionaire%20-%20English.pdf)
+            - [WHO-5 精神的健康状態表(1998年版)日本語](http://www.med.oita-u.ac.jp/oita-lcde/WHO-5%5B1%5D.pdf)
+            - [WHO-5 精神的健康状態表(1998年版)中国語](https://www.psykiatri-regionh.dk/who-5/Documents/WHO5_Chinese_PR.pdf)
 ### 測定期間
 - 2週間ごとに1回(合計4週間)
 
@@ -140,7 +140,11 @@ Richard E. Lucas　Michigan State University 583　Kubzansky 2012), career outco
 - 詳細：[WHO-5](http://www.med.oita-u.ac.jp/oita-lcde/WHO-5%5B1%5D.pdf![image](https://user-images.githubusercontent.com/62456878/194132364-af0026d6-53e7-4aac-825c-6cb0bc621dde.png)
 )
   - 「The 5-item World Health Organization Well-Being Index (WHO-5) is a short and generic global rating scale measuring subjective well-being.」
- 
+- 対象：positive affectsの評価アンケート
+### 尺度 
+
+ <img width="672" alt="スクリーンショット 2022-10-06 9 09 08" src="https://user-images.githubusercontent.com/62456878/194185835-daa88547-cc3e-46b3-acc3-69d60f8edca4.png">
+
 - 成人の通用性、有効性すでに検証された
 - ２週間そのまま使うOK
 - 内容はポジティブ・ネガティブを測ることができる(positive affect + negative affect)
@@ -148,7 +152,7 @@ Richard E. Lucas　Michigan State University 583　Kubzansky 2012), career outco
 
 # 先行研究8（もらったヒント：尺度）
 - 詳細：[Affectometer 2: A scale to measure current level of general happiness](https://www.tandfonline.com/doi/pdf/10.1080/00049538308255070?needAccess=true![image](https://user-images.githubusercontent.com/62456878/194132684-63d23a1e-65f9-4f16-9623-4cd3a8647eef.png)
-- 対象：
+- 対象：positive affects + negative affects
 ### 尺度
 
 <img width="425" alt="image" src="https://user-images.githubusercontent.com/62456878/194132773-e993a043-54cc-4dd8-a23b-639e46dc3ec9.png">
@@ -157,6 +161,7 @@ Richard E. Lucas　Michigan State University 583　Kubzansky 2012), career outco
 - 項目内容が自分がみたいこと
 - 毎週/1回評価OK
 - 成人の有効性検証された
+- しかし、positive affects + negative affectsが独立してない
 
 
 
