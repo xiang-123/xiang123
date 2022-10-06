@@ -54,8 +54,8 @@ Richard E. Lucas　Michigan State University 583　Kubzansky 2012), career outco
   - World Health Organisation- Five Well-Being Index (WHO-5):a short self-reported measure of current mental wellbeing.
   - WHO-5の詳細情報
        - https://www.corc.uk.net/outcome-experience-measures/the-world-health-organisation-five-well-being-index-who-5/#:~:text=Overview-,The%20World%20Health%20Organisation%2D%20Five%20Well%2DBeing%20Index%20(WHO,measures%20in%20primary%20health%20care.
-       - Psychometric properties（心理测量特性）:The WHO-5 has been found to have adequate validity in screening for depression and in measuring outcomes in clinical trials. Item response theory analyses in studies of younger persons and elderly persons indicate that the measure has good construct validity as a unidimensional scale measuring well-being in these populations (Winther Topp et al., 2015).已发现 WHO-5 在筛查抑郁症和测量临床试验结果方面具有足够的效度。对年轻人和老年人的研究中的项目反应理论分析表明，该测量作为一维量表具有良好的结构效度衡量这些人群的幸福感
-       -  (Winther Topp et al., 2015論文）：[The WHO-5 Well-Being Index: a systematic review of the literature](https://pubmed.ncbi.nlm.nih.gov/25831962/)
+       - Psychometric properties（心理测量特性）:The WHO-5 has been found to have adequate validity in screening for depression and in measuring outcomes in clinical trials. Item response theory analyses in studies of younger persons and elderly persons indicate that the measure has good construct validity as a unidimensional scale measuring well-being in these populations (Winther Topp et al., 2015).
+       -  (Winther Topp et al., 2015）：[The WHO-5 Well-Being Index: a systematic review of the literature](https://pubmed.ncbi.nlm.nih.gov/25831962/)
             - 結論：「the WHO-5 is a highly useful tool that can be applied in both clinical practice (for instance to screen for depression) as well as in research studies in order to assess well-being over time or to compare well-being between groups.」 
         -  The WHO-5 is free of charge and does not require permission to use.
         - [WHO-5 精神的健康状態表(1998年版)英語](https://www.psykiatri-regionh.dk/who-5/Documents/WHO-5%20questionaire%20-%20English.pdf)
