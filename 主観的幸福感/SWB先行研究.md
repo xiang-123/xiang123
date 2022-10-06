@@ -113,6 +113,7 @@ Richard E. Lucas　Michigan State University 583　Kubzansky 2012), career outco
 
 # 先行研究6（もらったヒント：尺度）
 - 詳細：[Personal Wellbeing Index – Adult!](https://user-images.githubusercontent.com/62456878/194130536-198d120a-2636-47e9-8e73-4678a9886d2e.png)
+- 対象：life satisfactionの評価アンケート
 ### 尺度
 
 <img width="374" alt="image" src="https://user-images.githubusercontent.com/62456878/194130677-9e9f16f1-4c6b-4af8-83a1-11ecf6d50973.png">
@@ -125,6 +126,7 @@ Richard E. Lucas　Michigan State University 583　Kubzansky 2012), career outco
 - 詳細： [1985The Satisfaction with Life Scale.](http://labs.psychology.illinois.edu/~ediener/SWLS.html)
 - Diener, E., Emmons, R. A., Larsen, R. J., & Griffin, S. (1985).
 - Journal of Personality Assessment, 49, 71-75. 
+- 対象：life satisfactionの評価アンケート
 ### 尺度
 
 <img width="434" alt="image" src="https://user-images.githubusercontent.com/62456878/194131761-bb383d06-929e-4b36-87d4-ab1da6f34525.png">
@@ -146,6 +148,7 @@ Richard E. Lucas　Michigan State University 583　Kubzansky 2012), career outco
 
 # 先行研究8（もらったヒント：尺度）
 - 詳細：[Affectometer 2: A scale to measure current level of general happiness](https://www.tandfonline.com/doi/pdf/10.1080/00049538308255070?needAccess=true![image](https://user-images.githubusercontent.com/62456878/194132684-63d23a1e-65f9-4f16-9623-4cd3a8647eef.png)
+- 対象：
 ### 尺度
 
 <img width="425" alt="image" src="https://user-images.githubusercontent.com/62456878/194132773-e993a043-54cc-4dd8-a23b-639e46dc3ec9.png">
