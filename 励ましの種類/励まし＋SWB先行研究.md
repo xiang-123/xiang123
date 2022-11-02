@@ -39,3 +39,10 @@
 - 「**励ましと慰めは，実際の会話場面で明確に区別することが困難とされており（**田中, ₂₀₁₂**），どちらも研究知見が少なく概念的定義のコンセンサスが十分に得られていない（小川, ₂₀₁₄b; Wong, ₂₀₁₅）。**」
 - 「**慰めの相互作用は心理状態の悪い受け手に与えるポジティブな影響が大きく，抑うつの解消，安心感や幸せな気分が高まることが示されている**（Bylsma, Vingerhoets, & Rottenberg, ₂₀₀₈）。」
 
+## 先行研究7
+### Harsh parenting and encouragement from parents during childhood: Long-term effects on well-being, mental health, and major illness
+- 2011
+- 「Findings indicate that parents’ **discouraging** their children from expressing thoughts and feelings, and parents’ being verbally and physically harsh towards their children, are both powerful risk factors for a broad array of long-term health outcomes in both clinical and non-clinical samples. 」
+- 「Life Satisfaction」
+- Findings indicate that parents’ discouraging their children from expressing thoughts and feelings, and parents’ being verbally and physically harsh towards their children, are both powerful risk factors for a broad array of long-term health outcomes in both clinical and non-clinical samples. 
+- Findings indicate that parents’ discouraging their children from expressing thoughts and feelings, and parents’ being verbally and physically harsh towards their children, are both powerful risk factors for a broad array of long-term health outcomes in both clinical and non-clinical samples. 
