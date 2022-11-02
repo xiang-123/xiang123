@@ -44,5 +44,3 @@
 - 2011
 - 「Findings indicate that parents’ **discouraging** their children from expressing thoughts and feelings, and parents’ being verbally and physically harsh towards their children, are both powerful risk factors for a broad array of long-term health outcomes in both clinical and non-clinical samples. 」
 - 「Life Satisfaction」
-- Findings indicate that parents’ discouraging their children from expressing thoughts and feelings, and parents’ being verbally and physically harsh towards their children, are both powerful risk factors for a broad array of long-term health outcomes in both clinical and non-clinical samples. 
-- Findings indicate that parents’ discouraging their children from expressing thoughts and feelings, and parents’ being verbally and physically harsh towards their children, are both powerful risk factors for a broad array of long-term health outcomes in both clinical and non-clinical samples. 
