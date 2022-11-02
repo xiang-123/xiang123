@@ -3,8 +3,7 @@
 ## 目的
 励まされたと感じる経験の積み重ねにより長期的な主観的幸福感の向上を達成できるかに関する先行研究調査
 ## 結果
-以下の先行研究は全て**encouragement**→**SWB（life satisfaction, positive, negatiive）↑**
-研究対象はほぼ青少年
+以下の先行研究は全て**encouragement**→**SWB（life satisfaction, positive, negatiive）↑**に関する文献
 
 ## 先行研究1
 ### Promoting Subjective Well-Being
@@ -13,7 +12,7 @@
 - 対象：高校生
 
 ## 先行研究2
-### You can do it! An experimental evaluation of an encouragement intervention for female students
+### ＊＊！！You can do it! An experimental evaluation of an encouragement intervention for female students＊＊（数回精読必要）
 - 2020
 - Two studies found that **encouragement messages that conveyed teachers’ high expectations coupled with the assurance that students could meet these expectations had a positive impact on college and middle school students’ academic motivation and　the quality of essays students wrote**, especially among African American students (Cohen, Steele, & Ross, 1999; Yeager et al., 2014).
   - 対象：大学生、中学生
