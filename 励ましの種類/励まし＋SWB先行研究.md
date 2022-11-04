@@ -10,6 +10,7 @@
 - 2012
 - “high school students were asked to identify the “**factors {that} contribute to life satisfaction and happiness**” yielded three themes, the primary of which pertained to the importance of family in **providing** support, **encouragement**, care, and love edwards & Lopez, 2006).” 
 - 対象：高校生
+- Subjective Well-being　＝　Life Satisfaction
 
 ## 先行研究2
 ### ＊＊！！You can do it! An experimental evaluation of an encouragement intervention for female students＊＊（数回精読必要）
@@ -23,6 +24,8 @@
 - 2013
 - Current findings strongly suggest the role for mentoring by teaching practices and encouragement for education level through family and friends circle desperately required for developing positive psychological strengths and subjective well being. 
 - 対象：青少年（18~23）
+- Subjective Well-being　＝　Life Satisfaction
+    - Satisfaction With Life Scale (SWLS)(Ed Diener)
 
 ## 先行研究4
 ### The Relationship of the Encouragement Group Counseling Program on Self-Efficacy（韓国語論文）
@@ -51,5 +54,6 @@
 ### Harsh parenting and encouragement from parents during childhood: Long-term effects on well-being, mental health, and major illness
 - 2011
 - 「Findings indicate that parents’ **discouraging** their children from expressing thoughts and feelings, and parents’ being verbally and physically harsh towards their children, are both powerful risk factors for a broad array of long-term health outcomes in both clinical and non-clinical samples. 」
-- 「Life Satisfaction」
+- well-being
+  - discouraging　：　Positive and Negative Affect Scale
 - 対象：age 19∼60
