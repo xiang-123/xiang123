@@ -36,7 +36,8 @@
 ## 2.研究背景
 ### 背景のロジック
 
-![image](https://user-images.githubusercontent.com/62456878/200176417-3fa64168-07d7-4b2b-9185-d5c6af962c01.png)
+<img width="581" alt="スクリーンショット 2022-11-06 23 48 28" src="https://user-images.githubusercontent.com/62456878/200177661-5044d19e-bbf8-40e2-a914-07ca3dc4c38c.png">
+
 
 
 ### ディスカッションポイント1
