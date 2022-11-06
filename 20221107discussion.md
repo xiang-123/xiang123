@@ -108,27 +108,25 @@
     - HAI研究で長期的な対エージェント対話実験を実施するときに、人間とエージェントの間にさらに「関係(relastionship)」が生じる可能性がある。
     - 例えば、そもそも友人関係の二人が、毎日対話して一定の期間後、この二人の関係が対話開始前もっと親しくなり、励まし効果が上がる可能性がある（もちろん上がらない・下がるも可能）
 - 目的：（励ましをする）**対話エージェント**と（励ましを受ける）**被験者**の間のrelastionshipと、励まし効果の間に、どのような関係があるかを明らかにする
-- 大体のイメージ
-<img width="508" alt="スクリーンショット 2022-11-06 19 56 16" src="https://user-images.githubusercontent.com/62456878/200166730-1cb9fdae-408f-4211-86b5-0ecdf91b2ae7.png">
+- 大体のイメージ（現時点の考え）
+<img width="508" alt="スクリーンショット 2022-11-06 20 15 33" src="https://user-images.githubusercontent.com/62456878/200167463-8675d21e-2b37-47cd-97dc-977edac01877.png">
 
-2週間の対話実験デザインとしましょう。そして、実験が始まる前、1週間後、2週間後、3回に分けてrelationshipと励まし効果を計測するのはいかがでしょうか。
-アドバイスありがとうございます。
-そうですね、２週間の対話実験デザインを設計するときに、relationshipと励まし効果は毎日一回聞く方法が被験者に飽きてしまう可能性が非常に高いと思います。
-２週間対話実験の前後２回だけ（つまり開始前＋終了後合計２回）の測定も少し足りないかもしれません。楊さんのアドバイスに従って、対話実験の途中にも１回追加測定をした方が良いと思います。
-実は今の考えはもしrelationshipと励まし効果の関係を測りたいなら、relationshipと励まし効果を数値化して、連続値として測定したいです。その理由はまだはっきり言えない（質問が来たらdefenceできない）段階ですが、ただ線形的？曲線的な関係を見て欲しいです。
+    - relationshipと励まし効果の関係を測りたいなら、relationshipと励まし効果を数値化して、連続値として測定したいです。その理由はまだはっきり言えない（質問が来たらdefenceできない）段階ですが、ただ線形的？曲線的な関係を見て欲しいです。
 また、もう一つの考えは、卒論のときに悩みの度合いと励まし効果の度合いの関係を探してみましたので、もし今回はrelationshipと励まし効果に対して数値化するなら、relationshipは３回測定しますが、励まし効果は毎日1回測定したいです。
 卒論では悩みの度合いと励まし効果の度合いを見たい、確かに今は「種類」に着目していますが、もし「種類」を研究のメインにして、実験設計をするときに、「度合い」の測定を追加してただデータ分析用に使うものも可能でしょうか？（まだまだ初歩の考えですが）
 
 - 今の困っているところ
     - どのような先行研究を調べた方がいいか？
-        - 今の考え：「励まし効果の影響因子・影響要因」、「対話の二人のrelationshipと励まし効果の関係」に関する先行研究
-        - 現段階探した論文：「**encouragement in naturalistic settings tends to be tailored to the recipients’ specific needs.** Indeed, **effective encouragement messages in real-world settings** are likely to be highly individualized and **may take into account** the recipients’ fears, wishes, past successes, and the nature of **the encourager-recipient relationship** (Wong, 2015).」
-        - つまり、励ましは、受け手の具体的なニーズに合わせてすることが多い。現実世界における効果的な励ましは、励ましをする人と受ける人の関係（relationship）を考慮する可能性がある。
+        - 今の考え
+            - 「励まし効果の影響因子・影響要因」、「対話の二人のrelationshipと励まし効果の関係」に関する先行研究
+            - 現段階探した論文：「**encouragement in naturalistic settings tends to be tailored to the recipients’ specific needs.** Indeed, **effective encouragement messages in real-world settings** are likely to be highly individualized and **may take into account** the recipients’ fears, wishes, past successes, and the nature of **the encourager-recipient relationship** (Wong, 2015).」
+            - つまり、励ましは、受け手の具体的なニーズに合わせてすることが多い。現実世界における効果的な励ましは、励ましをする人と受ける人の関係（relationship）を考慮する可能性がある。
     - どのような仮説・リサーチクエスチョンを立てた方がいいか？
         - 今の考え
             - （１）人間とエージェントの親密度が高いほど、励まし効果が高い。
             - （２）励まし発話の種類が同じであっても、人間とエージェントの親密度が高まることにともない、励まし効果が高まる。
-
+    - どのようにrelationshipと励まし効果を測定か？
+        - 今の考え
 
 私は対話実験前後でSWB以外のアンケートを追加することができると思います。
 まだまだ初歩の考えですが、親近感または距離感または信頼感を測る尺度とか、単に質問「二人のrelationshipの点数はどれぐらいか」（0-100、点数を回答してもらう）とか。また、もし「relationship」と「励まし効果」の間には相関関があるかを調べる場合、「励まし効果」に対しても点数をつけてもらって、「relationship」と「励まし効果」の数値から分析するのもできると思います。
