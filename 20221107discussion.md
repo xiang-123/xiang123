@@ -36,7 +36,8 @@
 ## 2.研究背景
 ### 背景のロジック
 
-![image](https://user-images.githubusercontent.com/62456878/200175282-20360f51-4422-4b05-8a43-091f0bb2b5c7.png)
+![image](https://user-images.githubusercontent.com/62456878/200176417-3fa64168-07d7-4b2b-9185-d5c6af962c01.png)
+
 
 ### ディスカッションポイント1
 背景ロジックの**まだ足りない部分、ロジックが通ってない部分**についてアドバイスが欲しい
