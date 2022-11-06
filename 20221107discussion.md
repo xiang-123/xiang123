@@ -90,8 +90,15 @@
 
 ### TODO3:SWBの評価実験
 - 目的：実体を持つ対話エージェントによる励まし発話が、長期的なSWBを上げられるかを調査する
-
 - 大体のイメージ
+<img width="257" alt="image" src="https://user-images.githubusercontent.com/62456878/200165507-5148c0d0-5e2a-4b2e-ad90-d2a9f69dc85b.png">
+
+- 実験期間：2週間
+- 評価方法：アンケート調査
+- 尺度：SWBの中の**ポジティブ感情**を評価する尺度
+    - 例：WHO-5、PANAS...
+- 今の困っているところ
+    - 2週間の対話実験、被験者募集の問題
 
 
 ### TODO4:励まし効果とrelastionshipの分析
