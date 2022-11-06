@@ -113,7 +113,8 @@
 
 - 今の困っているところ
     - どのような先行研究を調べた方がいいか？
-        - 今の考え：
+        - 今の考え：「励まし効果の影響因子・影響要因」、「対話の二人のrelationshipと励まし効果の関係」に関する先行研究
+        - 現段階探した論文：「**encouragement in naturalistic settings tends to be tailored to the recipients’ specific needs.** Indeed, **effective encouragement messages in real-world settings** are likely to be highly individualized and **may take into account** the recipients’ fears, wishes, past successes, and the nature of **the encourager-recipient relationship** (Wong, 2015).」
 
     - x
     - どのような仮説を立てた方がいいか？
