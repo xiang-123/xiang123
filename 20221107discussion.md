@@ -77,8 +77,8 @@
 - 大体のイメージ
 <img width="476" alt="スクリーンショット 2022-11-06 18 48 59" src="https://user-images.githubusercontent.com/62456878/200164221-e8328ab5-54e6-42a4-9b8d-dc67c4b53223.png">
 - 先行研究
-[Yahoo!知恵袋データを活⽤した悩みの分類と名⾔推薦.pdf](https://github.com/xiang-123/xiang123/files/9945548/Yahoo.pdf)
 
+[2021年Yahoo!知恵袋データを活⽤した悩みの分類と名⾔推薦](https://www.nii.ac.jp/dsc/idr/userforum/poster/IDR-UF2021_P01.pdf)
 - 手法
 
 
