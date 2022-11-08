@@ -12,7 +12,8 @@
 
 ### 開発プラットフォーム
 - Android Studio(https://developer.android.com/studio)
-  - ダウンロード済、
+  - ダウンロード済
+  - 続きはまだ：https://mukai-lab.info/pages/tech/robohon/robohon1/
 
 ## 資料
 https://robohon.com/sdk/develop-list.php
