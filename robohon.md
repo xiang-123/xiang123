@@ -33,6 +33,8 @@ https://robohon.com/sdk/develop-list.php
 ### Package Index - RoBoHoN API
 - https://robohon.com/assets/sdk/javadoc/reference/packages.html
 
+### ロボホン(開発専用)の紹介
+- https://robohon.com/product/robohon/sr-x002/customer.php
 
 ## RoBoHoN_開発者向けモデル＜SR-X002＞
 - ロボホンの対話シナリオの作成ができる
@@ -89,7 +91,7 @@ https://robohon.com/sdk/app.php
 4. サンプルアプリを変更して好きなことをしゃべらせる
 
 ### サンプルアプリ紹介
-- ＳＤＫでは、４つのサンプルアプリを提供
+- SDKでは、4つのサンプルアプリを提供
 <img width="693" alt="スクリーンショット 2022-11-08 21 54 21" src="https://user-images.githubusercontent.com/62456878/200569871-cc6beef1-8c98-403b-9d1e-61c9ed9fbc9b.png">
 
 ### ロボホンの音声対話
