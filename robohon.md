@@ -33,13 +33,21 @@ https://robohon.com/sdk/develop-list.php
 ### Package Index - RoBoHoN API
 - https://robohon.com/assets/sdk/javadoc/reference/packages.html
 
-Scratch
 
-「スクラッチパック」は、Scratch（※１）を使って、ロボホンの対話や機能をプログラミングすることができるアプリケーションパックです。
-ロボホン専用の拡張ブロック設定（Scratch 2.0 Extensions ）や、Scratchを使ってロボホンを制御するアプリとツールがセットになっています。
+## RoBoHoN_開発者向けモデル＜SR-X002＞
+- ロボホンの対話シナリオの作成ができる
+- 「Motion Works for ロボホン」（Windows用ソフトウェア）で作成したモーションを生かしたアプリケーションの開発が可能
+- Android5.0以上のスマートフォンで、実行させることも可能
+## 子供向けのビジュアルプログラミング言語Scratch(スクラッチ)
+- スクラッチパック
+  - Scratchを使って、ロボホンの対話や機能をプログラミングすることができるアプリケーションパック
+  - プログラミングの基礎学習、小中学生のプログラミング教育、家庭などに活用できる
+  
+<img width="690" alt="スクリーンショット 2022-11-08 21 32 05" src="https://user-images.githubusercontent.com/62456878/200564447-4f177f9b-7524-45f7-a37b-c6c659f7cb07.png">
 
-プログラミングを始めた方の基礎学習や、小中学生のプログラミング教育に活用いただけます。
+<img width="720" alt="スクリーンショット 2022-11-08 21 32 21" src="https://user-images.githubusercontent.com/62456878/200564502-c660f35c-d580-410a-a44e-bd316035510b.png">
 
+<img width="676" alt="スクリーンショット 2022-11-08 21 32 31" src="https://user-images.githubusercontent.com/62456878/200564538-e29da3c3-4fcb-413c-990d-84041e6559ff.png">
 
  ロボホンでプログラミング学習
  https://robohon.com/co/scratch.php
