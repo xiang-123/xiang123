@@ -23,7 +23,7 @@ https://app.readoor.cn/app/dt/pd/1564663415/1?s=1
 - 与北京大学李素建老师合作,进行Morphological Analysis（形态素解析）和分词热图制作，以深入了解语言数据，并将研究结果纳入发表的论文。
 - 利用多变量解析和重回归分析等统计方法，研究不同聊天内容之间的相关性，并将统计结果详细呈现在论文中。
 - 负责将发表在日本NLP2022年学会上的研究论文翻译成中文，以推广研究成果并与中文读者分享研究发现。
-
+## 英文翻译
 - Processed Zoom Text Chat data for 6 global Chinese teaching online lecture series at Beijing Language and Culture University, which included tasks like classification, annotation, and statistical analysis.
 - Analyzed Text Chat data from Beijing Language and Culture University's Chinese online lectures to examine language patterns among native Chinese speakers.
 - Contributed essential data and authored the statistical results and data analysis section of the project, whose results were published at the Japan NLP2022 conference in Japan, with special recognition in the acknowledgments section.
