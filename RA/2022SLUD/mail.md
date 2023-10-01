@@ -10,7 +10,7 @@
 
 ---
 
-
+## 
 - Processed and analyzed Zoom Text Chat data for the global Chinese teaching online lecture series at Beijing Language and Culture University, including data organization, text analysis, and statistical analysis.
 - Assisted Professor Kazuko Sunaga in literature research related to gratitude psychology and online education.
 - Conducted data organization and statistical analysis for a research project, the results of which were published at the 95th The Japanese Society for Artificial Intelligence SIG-SLUD, with special recognition in the acknowledgments section.
