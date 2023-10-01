@@ -9,3 +9,9 @@
 将在 SIG-SLUD-095 发表的日文研究论文翻译成中文，以更广泛传播研究成果，使中文读者了解研究发现。
 
 ---
+
+
+- Processed and analyzed Zoom Text Chat data for the global Chinese teaching online lecture series at Beijing Language and Culture University, including data organization, text analysis, and statistical analysis.
+- Assisted Professor Kazuko Sunaga in literature research related to gratitude psychology and online education.
+- Conducted data organization and statistical analysis for a research project, the results of which were published at the 95th The Japanese Society for Artificial Intelligence SIG-SLUD, with special recognition in the acknowledgments section.
+- Translated the Japanese research paper published at the 95th The Japanese Society for Artificial Intelligence SIG-SLUD into Chinese to facilitate broader dissemination of research findings for Chinese readers.
