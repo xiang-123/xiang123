@@ -3,37 +3,38 @@
 - 対話ロボットによる励まし発話が、ユーザの長期的な主観的幸福感に与える影響
 
 ## 研究の最終目的
-- 対話ロボットの励まし発話によって悩みを抱えている人間の長期的な主観的幸福感を向上させたい
+- 対話ロボットが励まし発話を提供することで、長期間のインタラクションを通じて、人間の主観的幸福感を向上させたい
 
 ## ターゲット学会報告の目的
 1. 今まで調べてきた2017年以降の**対話エージェント**が**ある方法**を使って**人間のwell-beingを高める研究**のまとめ
-<br>　まとめる理由
-- 自分の研究の立ち位置を明確
+<br>
+
+### まとめる理由
+- **自分の研究の立ち位置を明確**
     - 自分が選んだ研究領域がどれだけ進んでいるか、何が未解明なのかを取り上げる
     - 自分はどこからどこまでを明確にするのか
-- 修論の第１章にまとめる
-<br>　まとめた内容
+- **修論の第１章にまとめる**
+<br>　
+
+### まとめた内容
     - **ある方法**はどのような方法か？
     - **well-being**はどのようなものか？
     - どのような**学会**か？
-
 <br>
-- M1秋学期のターゲット学会報告
-  - 2017年以降「対話エージェントによりユーザのwell-beingを高める研究」をAAAI+他の学会探すリストを共有した
-  - 自分の研究の立ち位置を明確
-    - 自分が選んだ研究領域がどれだけ進んでいるか、何が未解明なのかを取り上げる
-    - 自分はどこからどこまでを明確にするのか
+
+- M1秋学期のターゲット学会報告、M2春学期のターゲット学会報告の補充
+  - M1秋学期のターゲット学会報告：2017年以降の「対話エージェントによりユーザのwell-beingを高める研究」を**AAAI+HAI+IEEE探すリスト**を共有した
+  - M2春学期のターゲット学会報告：2023の3月のAAAI 2023 spring symposiumの「対話エージェントによりユーザのwell-beingを高める研究」の共有
+
+
 3. 自分が今考えているターゲット学会を共有
 
-## ターゲット学会報告の目的
-1. 2023の3月のAAAI 2023 spring symposiumの「対話エージェントによりユーザのwell-beingを高める研究」の共有
-2. 他の学会で 「対話エージェントによりユーザのwell-beingを高める研究」に近い研究・関連研究の共有
-
-5. 先行研究との関連性、新規性、類似性、差異など
 
 
 ## 調べた内容
-- **対話エージェント**が**ある方法**を使って**人間のwell-beingを高める**先行研究
+- **対話エージェント**が**ある方法**を使って**人間のwell-beingを高める**
+    - キーワード：robot, chatbot, dialogue system, interaction, emotion, wellbeing
+- Human Robot Interaction / Human Agent Interaction / Human Computer Interactionなどのキーワードがある学会
 
 |ポイント|自分の研究|先行研究|
 |:---|:---:|:---:|
@@ -46,36 +47,22 @@
 - HAI conference
 - Internet Interventions, IEEEなど
 
-### 調べた期間
-- 2017年以降
+
+## まとめ
+- 今まで調べてきた「2018年以降の**対話エージェント**が**ある方法**を使って**人間のwell-beingを高める研究**」
+
+|タイトル|年|学会名|ある方法|well-beingとは|メモ（文献入手の有無など）|
+|:---|:---:|:---:|:---:|:---:|:---:|
+|[コミュニケーションロボットとの対話が幸福感に与える影響](https://hai-conference.net/proceedings/HAI2018/pdf/P-5.pdf)|2018|HAIシンポジウム2018|three good things|主観的幸福感（[伊藤らのアンケート](https://www.jstage.jst.go.jp/article/jjpsy1926/74/3/74_3_276/_pdf)）|あり|
+|[音声エージェントを介した感謝の効果に関する調査](https://www.jstage.jst.go.jp/article/pjsai/JSAI2018/0/JSAI2018_4J104/_pdf/-char/ja)|2018|人工知能学会全国大会（第32回）|感謝|ポジティブ感情とネガティブ感情|あり|
+|Increasing Well-being through Robotic Hugs|2023|[AAAI 2023 spring symposium](http://www.cas.lab.uec.ac.jp/wordpress/aaai_spring_2023/)|hug|satisfaction, calming, and happiness|あり|
+|Positive Emotion Elicitation in Chat-Based Dialogue Systems|2019|AAAI2018発表→IEEE2019投稿|ユーザの感情の種類に対して、ポジティブ感情を引き起こす発話を生成|ポジティブ感情|あり|
+|Emotional Support Domestic Robots for Healthy Older Adults: Conversational Prototypes to Help With Loneliness|2020|HAI2018発表→IEEE2020投稿|傾聴、確認、繰り返し|孤独感の軽減|あり|
+|A Preliminary Study on Realizing Human–Robot Mental Comforting Dialogue via Sharing Experience Emotionally|2022|[Social Robots in Healthcare](https://www.mdpi.com/journal/sensors/special_issues/SRH)|慰め→共感を高める|well-beingを高める研究より、慰めロボットの実現→共感を高める|あり|
+|How Can Bar Robots Enhance the Wellbeing of Guests?|2023|[AAAI 2023 spring symposium](http://www.cas.lab.uec.ac.jp/wordpress/aaai_spring_2023/)|近づく、交流|satisfying their needs, giving them comfort, strengthening their health|あり|
+|[Adolescents’ wellbeing while using a mobile AI-powered acceptance commitment therapy tool: evidence from a longitudinal study](https://ai.jmir.org/2022/1/e38171)|2022|[JMIR-AI](https://ai.jmir.org/)|Gratitude、Learning、ACT training、Positive psychologyなど|well-being（WHOの定義）|あり|
 
 
-
-
-## ターゲット学会報告の目的
-1. 2023の3月のAAAI 2023 spring symposiumの「対話エージェントによりユーザのwell-beingを高める研究」の共有
-2. 他の学会で 「対話エージェントによりユーザのwell-beingを高める研究」に近い研究・関連研究の共有
-3. 今まで調べてきた2018年以降の**対話エージェント**が**ある方法**を使って**人間のwell-beingを高める研究**のまとめ
-    - **ある方法**はどのような方法か？
-    - **well-being**はどのようなものか？
-    - どのような**学会**か？
-5. 先行研究との関連性、新規性、類似性、差異など
-
-
-||ポイント|自分の研究|先行研究|
-|:---|:---:|:---:|:---:|
-|1|対話エージェント実体の有無|実体あり|実体あり？なし？|
-|2|言語/非言語|言語|言語か？非言語か？|
-|3|音声/テキスト|音声対話|音声対話？テキスト対話？|
-|4|well-beingに関わる感情|長期的な主観的幸福感（生活満足感）|どのような感情を研究するか？|
-|5|well-beingを高める方法|最も効果が高い励まし発話を出す|どのような方法を使ったか？|
-|6|対象|女子大学生|誰？|
-|7|評価の期間とタイミング||||
-（私にとって一番重要な部分、自分の研究のオリジナリティ（思いついたら追加））
-
-## 調べた内容
-- **対話エージェント**が**ある方法**を使って**人間のwell-beingを高める**
-- キーワード：robot, chatbot, dialogue system, interaction, emotion, wellbeing
 
 ターゲット学会となる国際学会・論文誌に関する情報をまとめる
 情報：関連研究、申し込む時間、近年の採択率
@@ -98,3 +85,7 @@ nternational Conference on Computer and Robot Vision
 
 対話エージェントによりユーザのwell-beingを高める研究
 → 春学期のターゲット学会は既に一部まとめた
+
+
+
+## 結論
