@@ -1,0 +1,100 @@
+# M2秋学期ターゲット学会報告
+## 研究テーマ
+- 対話ロボットによる励まし発話が、ユーザの長期的な主観的幸福感に与える影響
+
+## 研究の最終目的
+- 対話ロボットの励まし発話によって悩みを抱えている人間の長期的な主観的幸福感を向上させたい
+
+## ターゲット学会報告の目的
+1. 今まで調べてきた2017年以降の**対話エージェント**が**ある方法**を使って**人間のwell-beingを高める研究**のまとめ
+<br>　まとめる理由
+- 自分の研究の立ち位置を明確
+    - 自分が選んだ研究領域がどれだけ進んでいるか、何が未解明なのかを取り上げる
+    - 自分はどこからどこまでを明確にするのか
+- 修論の第１章にまとめる
+<br>　まとめた内容
+    - **ある方法**はどのような方法か？
+    - **well-being**はどのようなものか？
+    - どのような**学会**か？
+
+<br>
+- M1秋学期のターゲット学会報告
+  - 2017年以降「対話エージェントによりユーザのwell-beingを高める研究」をAAAI+他の学会探すリストを共有した
+  - 自分の研究の立ち位置を明確
+    - 自分が選んだ研究領域がどれだけ進んでいるか、何が未解明なのかを取り上げる
+    - 自分はどこからどこまでを明確にするのか
+3. 自分が今考えているターゲット学会を共有
+
+## ターゲット学会報告の目的
+1. 2023の3月のAAAI 2023 spring symposiumの「対話エージェントによりユーザのwell-beingを高める研究」の共有
+2. 他の学会で 「対話エージェントによりユーザのwell-beingを高める研究」に近い研究・関連研究の共有
+
+5. 先行研究との関連性、新規性、類似性、差異など
+
+
+## 調べた内容
+- **対話エージェント**が**ある方法**を使って**人間のwell-beingを高める**先行研究
+
+|ポイント|自分の研究|先行研究|
+|:---|:---:|:---:|
+|1|実体を持つ対話ロボットを使う|実体を持つ対話エージェントか？持たない対話エージェントか？|
+|2|音声対話|テキスト対話か？音声対話か？|
+|3|悩みの種類に適する励まし発話を出す|どのような方法を使ったか？|
+
+### 調べた学会
+- AAAI
+- HAI conference
+- Internet Interventions, IEEEなど
+
+### 調べた期間
+- 2017年以降
+
+
+
+
+## ターゲット学会報告の目的
+1. 2023の3月のAAAI 2023 spring symposiumの「対話エージェントによりユーザのwell-beingを高める研究」の共有
+2. 他の学会で 「対話エージェントによりユーザのwell-beingを高める研究」に近い研究・関連研究の共有
+3. 今まで調べてきた2018年以降の**対話エージェント**が**ある方法**を使って**人間のwell-beingを高める研究**のまとめ
+    - **ある方法**はどのような方法か？
+    - **well-being**はどのようなものか？
+    - どのような**学会**か？
+5. 先行研究との関連性、新規性、類似性、差異など
+
+
+||ポイント|自分の研究|先行研究|
+|:---|:---:|:---:|:---:|
+|1|対話エージェント実体の有無|実体あり|実体あり？なし？|
+|2|言語/非言語|言語|言語か？非言語か？|
+|3|音声/テキスト|音声対話|音声対話？テキスト対話？|
+|4|well-beingに関わる感情|長期的な主観的幸福感（生活満足感）|どのような感情を研究するか？|
+|5|well-beingを高める方法|最も効果が高い励まし発話を出す|どのような方法を使ったか？|
+|6|対象|女子大学生|誰？|
+|7|評価の期間とタイミング||||
+（私にとって一番重要な部分、自分の研究のオリジナリティ（思いついたら追加））
+
+## 調べた内容
+- **対話エージェント**が**ある方法**を使って**人間のwell-beingを高める**
+- キーワード：robot, chatbot, dialogue system, interaction, emotion, wellbeing
+
+ターゲット学会となる国際学会・論文誌に関する情報をまとめる
+情報：関連研究、申し込む時間、近年の採択率
+ターゲット学会のリスト
+IEEE/RSJ International Conference　on　Intelligent Robots and Systems
+International Conference on Social Robotics
+IEEE International Conference on Robotics and Automation (ICRA)
+ACM/IEEE Conference on Human-Robot Interaction
+IEEE International Conference on　Robot and Human Interactive Communication
+RAS International Conference on Humanoid Robots
+Robotics: Science and Systems Conference
+International Conference on Robot Systems and Applications
+International Conference on Robotics
+Annual Conference on Robot Learning
+nternational Conference on Computer and Robot Vision
+
+
+
+似たような先行研究があるかどうかを調べて修論にまとめる　
+
+対話エージェントによりユーザのwell-beingを高める研究
+→ 春学期のターゲット学会は既に一部まとめた
