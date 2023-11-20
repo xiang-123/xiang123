@@ -7,49 +7,30 @@
 
 ## ターゲット学会報告の目的
 1. 今まで調べてきた2017年以降の**対話エージェント**が**ある方法**を使って**人間のwell-beingを高める研究**のまとめ
-<br>
-
-### まとめる理由
-- **自分の研究の立ち位置を明確**
-    - 自分が選んだ研究領域がどれだけ進んでいるか、何が未解明なのかを取り上げる
-    - 自分はどこからどこまでを明確にするのか
-- **修論の第１章にまとめる**
-<br>　
-
-### まとめた内容
+- まとめる理由
+    - **自分の研究の立ち位置を明確**
+        - 自分が選んだ研究領域がどれだけ進んでいるか、何が未解明なのかを取り上げる
+        - 自分はどこからどこまでを明確にするのか
+    - **修論の第１章にまとめる**
+- まとめた内容
     - **ある方法**はどのような方法か？
     - **well-being**はどのようなものか？
     - どのような**学会**か？
-<br>
-
 - M1秋学期のターゲット学会報告、M2春学期のターゲット学会報告の補充
-  - M1秋学期のターゲット学会報告：2017年以降の「対話エージェントによりユーザのwell-beingを高める研究」を**AAAI+HAI+IEEE探すリスト**を共有した
-  - M2春学期のターゲット学会報告：2023の3月のAAAI 2023 spring symposiumの「対話エージェントによりユーザのwell-beingを高める研究」の共有
+    - M1秋学期のターゲット学会報告：2017年以降のAAAI+HAI+IEEEの「対話エージェントによりユーザのwell-beingを高める研究」を共有した
+    - M2春学期のターゲット学会報告：2023の3月のAAAI 2023 spring symposium＋他の学会の「対話エージェントによりユーザのwell-beingを高める研究」をまとめた
+        - 既にまとめた研究について：最近新しい進捗があるかを確認
+        - 今まで見つからなかった先行研究を補足
 
-
-3. 自分が今考えているターゲット学会を共有
-
-
+2. 来年以降にターゲット学会となりそうな国際学会に関する情報をまとめる
 
 ## 調べた内容
 - **対話エージェント**が**ある方法**を使って**人間のwell-beingを高める**
     - キーワード：robot, chatbot, dialogue system, interaction, emotion, wellbeing
 - Human Robot Interaction / Human Agent Interaction / Human Computer Interactionなどのキーワードがある学会
 
-|ポイント|自分の研究|先行研究|
-|:---|:---:|:---:|
-|1|実体を持つ対話ロボットを使う|実体を持つ対話エージェントか？持たない対話エージェントか？|
-|2|音声対話|テキスト対話か？音声対話か？|
-|3|悩みの種類に適する励まし発話を出す|どのような方法を使ったか？|
-
-### 調べた学会
-- AAAI
-- HAI conference
-- Internet Interventions, IEEEなど
-
-
 ## まとめ
-- 今まで調べてきた「2018年以降の**対話エージェント**が**ある方法**を使って**人間のwell-beingを高める研究**」
+- 今まで調べてきた「2017年以降の**対話エージェント**が**ある方法**を使って**人間のwell-beingを高める研究**」
 
 |タイトル|年|学会名|ある方法|well-beingとは|メモ（文献入手の有無など）|
 |:---|:---:|:---:|:---:|:---:|:---:|
@@ -64,28 +45,20 @@
 
 
 
-ターゲット学会となる国際学会・論文誌に関する情報をまとめる
-情報：関連研究、申し込む時間、近年の採択率
-ターゲット学会のリスト
-IEEE/RSJ International Conference　on　Intelligent Robots and Systems
-International Conference on Social Robotics
-IEEE International Conference on Robotics and Automation (ICRA)
-ACM/IEEE Conference on Human-Robot Interaction
-IEEE International Conference on　Robot and Human Interactive Communication
-RAS International Conference on Humanoid Robots
-Robotics: Science and Systems Conference
-International Conference on Robot Systems and Applications
-International Conference on Robotics
-Annual Conference on Robot Learning
-nternational Conference on Computer and Robot Vision
-
-
-
-似たような先行研究があるかどうかを調べて修論にまとめる　
-
-対話エージェントによりユーザのwell-beingを高める研究
-→ 春学期のターゲット学会は既に一部まとめた
-
+## ターゲット学会となりそうな国際学会に関する情報をまとめる
+- 情報：学会の概要、申込締切、開催期間、開催地、採択率など
+- ターゲット学会のリスト
+    - IEEE/RSJ International Conference　on　Intelligent Robots and Systems
+    - International Conference on Social Robotics
+    - IEEE International Conference on Robotics and Automation (ICRA)
+    - ACM/IEEE Conference on Human-Robot Interaction
+    - IEEE International Conference on　Robot and Human Interactive Communication
+    - RAS International Conference on Humanoid Robots
+    - Robotics: Science and Systems Conference
+    - International Conference on Robot Systems and Applications
+    - International Conference on Robotics
+    - Annual Conference on Robot Learning
+    - nternational Conference on Computer and Robot Vision
 
 
 ## 結論
