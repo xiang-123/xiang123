@@ -60,6 +60,7 @@
 ### 全体的なイメージ
 <img width="735" alt="スクリーンショット 2024-05-20 16 14 02" src="https://github.com/xiang-123/xiang123/assets/62456878/828ad662-90a4-42db-9cfe-3b2be826b72e">
 <img width="737" alt="スクリーンショット 2024-05-20 16 12 46" src="https://github.com/xiang-123/xiang123/assets/62456878/7253511f-b8ed-4027-9d58-cf509f4ad8ca">
+<br>
 - [計算した必要な被験者数](https://github.com/kikuchiken-waseda/Xiang-Lingxuan/blob/master/D1/spring/seminar/20240520discussion%E5%BF%85%E8%A6%81%E3%81%AA%E8%A2%AB%E9%A8%93%E8%80%85%E6%95%B0.md)
 
 # ディスカッションポイント
