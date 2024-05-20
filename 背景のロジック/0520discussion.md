@@ -7,7 +7,7 @@
 2. 研究対象を決定
 
 ## ディスカッションポイント
-1. 現時点立てたプロセス２の詳細な仮説（０、１、２、３）を共有する。
+1. 現時点立てた研究計画・実験計画の共有
 2. これらの仮説を検証するために考えている分析方法を共有する。
   - 現在の詳細な仮説に存在する問題点があればご指摘をいただきたい。
   - 他の詳細な仮説があるかについてアドバイスをいただきたい。
@@ -109,3 +109,34 @@
 
 
 
+# 必要な被験者数の計算
+## 実験１
+### サンプルサイズの算出結果:最小25人
+- 参考文献：[サンプルサイスの算出](https://www.mizumot.com/files/permutation.pdf)、[G*Power](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower)
+  - 引用：Faul, F., Erdfelder, E., Lang, A. G., & Buchner, A. (2007). GPower 3: A flexible statistical power analysis program for the social, behavioral, and biomedical sciences. Behavior Research Methods, 39(2), 175-191.
+- 計算（理由）
+  - ツール：G*Power
+  - 手法：F tests　→ ANOVA: Repeated measures, within factors　→ A priori（サンプルサイズの計算）
+    - Repeated measuresの理由：各被験者が、ある種類の悩みに応じた５種類の励まし発話の効果を評価した。各被験者はそれぞれの励まし発話の対して合計5回の評価を行った
+    - within factors（内部要因）：実験では５種類の励まし発話だけに関わる
+  - パラメーターの設定
+    - Effect size = 0.1（小程度の効果量） or 0.25（中程度の効果量）　or 　0.4 (大程度の効果量)→今回は小中程度
+    - 有意水準 α err prob(α過誤) α＝0.05 
+    - 検定力 Power (１－β err prob) power=0.80 (J.Cohenが提唱する数値)
+    - Number of groups = 5　　（5種類の励まし発話）
+    - Number of measurements = 5　（各被験者が完了する必要がある評価回数。各回は1種類の励まし発話に対応）
+    - Corr among rep measures = 0.5　（繰り返し測定間の相関、通常保守的な見積もりとして0.5を使用）
+    - Nonsphericity correction = 1　（通常保守的な見積もりとして1を使用）
+- 計算の具体的な結果
+  - Effect sizeの設定
+    - 5種類の励まし発話の差が小さいと予測：小程度の効果量　0.1←
+    - 5種類の励まし発話の差があまり大きな差がないと予測：中程度の効果量　0.25←
+    - 5種類の励まし発話の差が大きいと予測：大程度の効果量　0.4。
+  - Effect size = 0.1の場合、サンプルサイス＝125
+    - <img width="669" alt="スクリーンショット 2023-05-07 3 27 56" src="https://user-images.githubusercontent.com/62456878/236640928-d9582d2a-9bc6-4c9d-af1d-ec63aa329580.png">
+  - Effect size = 0.25の場合、サンプルサイス＝25
+    - <img width="665" alt="スクリーンショット 2023-05-07 3 27 04" src="https://user-images.githubusercontent.com/62456878/236640888-a360194e-dd9d-412e-9332-8860e8d94866.png">
+  - Effect size = 0.4の場合、サンプルサイス＝10
+    - <img width="664" alt="スクリーンショット 2023-05-07 3 32 38" src="https://user-images.githubusercontent.com/62456878/236641092-0b8be90a-2555-4cf3-9f3d-9513629ee015.png">
+
+## 実験2
