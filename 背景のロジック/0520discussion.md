@@ -68,10 +68,15 @@ the frequency （インタラクションの頻度）：適切な頻度は実験
 duration of the interaction（インタラクションの長さ）：適切なインタラクションは実験２で調査予定
 
 
+## 現時点で考えている研究対象と理由の共有
 
-# 必要な被験者数の計算
-## 実験１
-### サンプルサイズの算出結果:最小25人
+
+
+
+## 計算した必要な被験者数の共有
+
+### 実験１
+#### サンプルサイズの算出結果:最小25人
 - 参考文献：[サンプルサイスの算出](https://www.mizumot.com/files/permutation.pdf)、[G*Power](https://www.psychologie.hhu.de/arbeitsgruppen/allgemeine-psychologie-und-arbeitspsychologie/gpower)
   - 引用：Faul, F., Erdfelder, E., Lang, A. G., & Buchner, A. (2007). GPower 3: A flexible statistical power analysis program for the social, behavioral, and biomedical sciences. Behavior Research Methods, 39(2), 175-191.
 - 計算（理由）
@@ -99,7 +104,7 @@ duration of the interaction（インタラクションの長さ）：適切な�
   - Effect size = 0.4の場合、サンプルサイス＝10
     - <img width="664" alt="スクリーンショット 2023-05-07 3 32 38" src="https://user-images.githubusercontent.com/62456878/236641092-0b8be90a-2555-4cf3-9f3d-9513629ee015.png">
 
-## 実験2
+### 実験2
 
 
 ## ディスカッションの結論（後ほど追記）
@@ -109,11 +114,10 @@ duration of the interaction（インタラクションの長さ）：適切な�
 2. 研究対象を決定
    - 必要な被験者数
 
-|流れ|ディスカッションポイント|ディスカッションの結論|
+|流れ|ディスカッションポイント|頂いたコメント＆ディスカッションの結論（後ほど追記）|
 |---|---|---|
 |現時点で立てた研究計画・実験計画の共有|①実験計画についてアドバイスをいただきたい（実験デザインの改善点や追加すべき要素、研究手法の選定など）||
 |現時点で考えている使うエージェントの種類と理由の共有|②具体的なエージェントを決めるために、エージェントの機能性や、研究目的に最も適合するエージェントの特性についてアドバイスをいただきたい||
 |現時点で考えている研究対象と理由の共有|③研究対象の範囲が適切か、または特定の条件を持つ対象者の選定が必要かどうかについてアドバイスをいただきたい||
 |計算した必要な被験者数の共有|④必要な被験者数についての計算が妥当かどうか、さらには研究の信頼性を高めるために考慮すべき追加の要素があるかどうかについてアドバイスをいただきたい||
 
-## 頂いたコメント（後ほど追記）
