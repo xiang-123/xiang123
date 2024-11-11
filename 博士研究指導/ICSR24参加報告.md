@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/872dccbd-6dee-4ca5-b04e-8d3e9bc1807a)# ICSR24学会参加報告
+# ICSR24学会参加報告
 - 2024/11/11
 - 10~15分
 
