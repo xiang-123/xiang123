@@ -63,7 +63,7 @@ Innovative ideas and concepts, new discoveries and improvements, novel applicati
 
 # 発表
 ## 聴講した発表
-### workshop5:[Personalized social robots to support successful Aging](https://sites.google.com/view/personalizedsocialrobotstosupp/home?authuser=0)
+### workshop:[Personalized social robots to support successful Aging](https://sites.google.com/view/personalizedsocialrobotstosupp/home?authuser=0)
 - Personalized robot
     - <img width="500" alt="スクリーンショット 2024-11-11 12 04 29" src="https://github.com/user-attachments/assets/d7ea36c5-e533-4071-b98b-a8c8370109d9">
     - 高齢者介護施設でのソーシャルロボット：メニューの選択を収集、薬のリマインド、認知療法を行う
