@@ -117,7 +117,7 @@ Innovative ideas and concepts, new discoveries and improvements, novel applicati
     - 「自然-コントロール」
     - 環境、タスク、技術、および技術の所有権
 - 大事だと思う点：Table1. Typs of studies in social robotics: the "natural-controlled" dimension
-    - <img width="500" alt="スクリーンショット 2024-11-11 14 18 17" src="https://github.com/user-attachments/assets/50b7adfe-fd58-4575-bb80-bd5e8f0a681a">
+    - <img width="600" alt="スクリーンショット 2024-11-11 14 18 17" src="https://github.com/user-attachments/assets/50b7adfe-fd58-4575-bb80-bd5e8f0a681a">
 - 感想
     - 修士研究:Constructed → Field testing + Not short-term + Controlled experiment　→　WoZ and higher fidelity　→　researchers　→ technology, tasks
 - 結論
