@@ -107,7 +107,8 @@ Innovative ideas and concepts, new discoveries and improvements, novel applicati
 - パーソナライズのメリット＆課題
     - メリット：高齢者支援（supporting staff, automating repetitive tasks:薬のリマインドなど）、個々のニーズや好みに応じた適応（例: 認知療法、運動）
     - 課題
-        - Stigmatization（例：）
+        - Stigmatization
+        - 例：孤独感（人間ではなくソーシャルロボットと一緒にいると、「孤立している」と感じてしまい、孤独感やネガティブ感情が増える可能性がある）、社会的地位（ソーシャルロボットによる支援を受けることで、一部の人々は自分が「介護を必要とする」弱者だと感じてしまい、恥ずかしいと思う）、individual stigma（日常生活のタスクをロボットに頼ることが自分の能力低下を意味していると思い、自分のことを否定する気持ちが生まれる可能性があります。自信やメンタルヘルスに影響を与えるかも）
 
 
 
