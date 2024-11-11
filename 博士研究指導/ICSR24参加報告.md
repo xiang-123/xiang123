@@ -62,6 +62,64 @@ Innovative ideas and concepts, new discoveries and improvements, novel applicati
     - <img width="500" alt="スクリーンショット 2024-11-11 11 18 11" src="https://github.com/user-attachments/assets/72afacb9-1b74-4207-8818-6d6dd1454279">
 
 # 発表
+## 聴講した発表
+### workshop5:[Personalized social robots to support successful Aging](https://sites.google.com/view/personalizedsocialrobotstosupp/home?authuser=0)
+- Personalized robot
+    - <img width="500" alt="スクリーンショット 2024-11-11 12 04 29" src="https://github.com/user-attachments/assets/d7ea36c5-e533-4071-b98b-a8c8370109d9">
+    - 高齢者介護施設でのソーシャルロボット：メニューの選択を収集、薬のリマインド、認知療法を行う
+    - 仕事の重点は、やり取りをする相手に口頭で説明を提供すること（相手：a resident, a family member, nurse, or technician）
+    - 口頭での説明は、相手に合わせて個別に調整する必要ある
+#### 感想
+- これから研究対象を高齢者とする予定があるため、これらのworkshopに参加しました。しかし、内容は高齢者のケア、サービスロボット、高齢者向けのウェアラブルデバイスに関するもので、使用されている手法もECGなどの生体情報が中心で、アンケートやインタビューを使う私の研究とはあまり似ていないです。
+- 個人的に印象深かった点:このworkshopで高齢者向けロボットの設計や応用における重要な課題と改善の可能性について議論されていました。
+    - 例えば、実際の生活環境は実験室や教室などのように静かではないため、騒がしい部屋でも高齢者と円滑に対話できることが重要とされていました。また、高齢者の聴覚は一般の若者よりも衰えていることが多いため、ロボット設計時には環境の騒音レベルや高齢者の聴力を考慮し、必要に応じて音量を調整する必要があると勉強しました。さらに、私たちが研究を進めるとき、「when」「what」「how」を考えることの重要性に気づきました。例えば、「いつコミュニケーションをとるか？」「何を伝えるべきか？」「どのように伝えるか？」といったポイントを明確にした上で研究を進める必要があると感じました。
+- パーソナライズのメリット＆課題
+    - メリット：高齢者支援（supporting staff, automating repetitive tasks:薬のリマインドなど）、個々のニーズや好みに応じた適応（例: 認知療法、運動）
+    - 課題
+        - Stigmatization
+        - 例：孤独感（人間ではなくソーシャルロボットと一緒にいると、「孤立している」と感じてしまい、孤独感やネガティブ感情が増える可能性がある）、社会的地位（ソーシャルロボットによる支援を受けることで、一部の人々は自分が「介護を必要とする」弱者だと感じてしまい、恥ずかしいと思う）、individual stigma（日常生活のタスクをロボットに頼ることが自分の能力低下を意味していると思い、自分のことを否定する気持ちが生まれる可能性があります。自信やメンタルヘルスに影響を与えるかもしれない）
+
+### The Content of Transparency Matters: Evaluating Verbal Transparency about Robot Capabilities
+- <img width="500" alt="スクリーンショット 2024-11-11 12 33 16" src="https://github.com/user-attachments/assets/feb01b2a-3d32-4dc4-b2c5-7e0ca2f8f641">
+- <img width="500" alt="スクリーンショット 2024-11-11 12 33 48" src="https://github.com/user-attachments/assets/8ce87ded-bb1e-4ee5-8324-388ae4f58c16">
+- social robotにおけるtrust calibration（信頼較正）に関する研究
+    - 目的
+        - ロボットの透明性のある（Transparency）発話が、ロボットの信頼性の認知（Trustworthiness）にどのような影響を与えるかを調査しました。
+    - 方法
+        - 研究は[Prolific](https://www.prolific.com/)を使い、参加者にシナリオ化されたビデオを見せ、参加者がロボットに「Can you close the window, please?窓を閉めてください」と頼むという場面を設定しています。実験では4つのグループに分けられました：
+（グループ1）低レベルの能力＋透明性あり（例：「Can you close the window, please? I will close it.」）→自分が何をしているかを簡単に説明
+（グループ2）高レベルの能力＋透明性なし（例：「I will close it.」）→なぜそれが可能なのか説明がなく、ユーザーにとって不透明
+（グループ3）高レベルの能力＋透明性あり（例：「Yes, I can operate the window. I will close it.」）→能力を持っていることをユーザーに伝えることで、信頼を築くための情報を提供
+（グループ4）ベースライン（音だけの反応、Beep）→言葉での応答がなく、能力も透明性も含まれてない
+        - 「高レベル」と「低レベル」：ロボットが応答する際の知能のレベルや能力の高さ
+        - 「透明性あり」と「透明性なし」：ロボットが自分の行動の説明をどれだけ明確に行うか
+        - 参加者にはこの4つのビデオを視聴してもらい、その後、アンケートで信頼性を測定しました。結果として、グループ1と3が信頼性評価で最も高く、グループ2はグループ1と3に比べて有意に低い評価となり、グループ4が最も低い評価でした。
+- 感想
+    - 私の研究方法と似ている点があり（私は実際の対話を用いたのに対し、彼らはシナリオビデオを用いました）、特に「信頼を築くことだけでなく、ロボットの能力と信頼性を正確に反映すること」(Perceived Trustworthiness)が重要であると感じました。trust calibrationの目的は、人とロボットの効果的なインタラクションを促進することです。
+    - 最初はこの研究がロボットによる家電の信頼性についてであると思っていましたが、発表者に聞きました。実際にはロボットが窓を閉めることはできないという設定です。これは、私が考えた「行為提供型」のencouragementが実際の行為を伴わないことと似ていると思い、この研究も完全にシナリオに基づいているものでした。
+    - ただし、現段階ではこの研究のcontributionが完全には理解できない部分もありましたが、oral presentationだけ聴講しましたので、論文が発表されたら再度確認したいと思います。
+
+### [keynote: Takayuki Kanda](https://icsr2024.dk/index.php/keynotes/#Kanda)
+- <img width="500" alt="スクリーンショット 2024-11-11 12 53 37" src="https://github.com/user-attachments/assets/35cdb2f0-8316-4051-b51a-44ea2625a429">
+- <img width="500" alt="スクリーンショット 2024-11-11 12 54 11" src="https://github.com/user-attachments/assets/feaf0422-b4ca-46a6-8722-ea13202334e8">
+- <img width="500" alt="スクリーンショット 2024-11-11 12 56 29" src="https://github.com/user-attachments/assets/19fad0d3-31b7-4941-9a2d-63c9b035d67b">
+- <img width="500" alt="スクリーンショット 2024-11-11 12 56 45" src="https://github.com/user-attachments/assets/55ddc55a-650c-4c96-b90d-5db20fcb80d7">
+- <img width="500" alt="スクリーンショット 2024-11-11 12 54 35" src="https://github.com/user-attachments/assets/8e53ed44-32a0-40af-9cf1-9cf4603a57a1">
+- ロボットが現実世界で直面する難しさを紹介しました。
+- 研究者たちは多くの現実世界のビデオ録画を通じて、ロボットと人間の社会的な距離や、人間がロボットに対して寛容でいるのか、虐待するのか、尊重するのか、無視するのかといった反応を観察しました。このような状況でロボットを活用するには、適切な社会的・道徳的な相互作用が必要であることが強調されていました。
+
+### combining control and validity: context management issues in proactive social robotics research
+- <img width="500" alt="スクリーンショット 2024-11-11 13 00 44" src="https://github.com/user-attachments/assets/33a72fe9-4834-47b2-939d-b5854022073e">
+- 内容：
+    - （a）社会ロボティクス研究において構築された環境を使用することが外部および内部の妥当性に与える可能性のある影響を考察
+    - （b）解決が必要なコンテキスト管理の問題を説明
+- 大事だと思う：Table1. Typs of studies in social robotics: the "natural-controlled" dimension
+    - 
+
+
+
+
+
 ## 自分の発表(10/25 Day3,Denmark)
 - 今回の発表形式では、まず一部の発表者がTeaser talkで簡単に研究を紹介して、その後、興味を持った人がポスター発表を聞きに来る形でした。Teaser talkがあったおかげで、そしてDay1に深く交流したこともあって、私の実験の詳細を尋ねに来た人が多かったです。
 ### Teaser Talk1分間
@@ -93,53 +151,9 @@ Innovative ideas and concepts, new discoveries and improvements, novel applicati
     - <img width="500" alt="スクリーンショット 2024-11-11 11 24 24" src="https://github.com/user-attachments/assets/6dcb5f80-46ee-45a5-a2e7-949006c71dac">
     - <img width="500" alt="スクリーンショット 2024-11-11 11 58 43" src="https://github.com/user-attachments/assets/6caaac5c-aa5d-48ea-ac1a-d9c467f7a45b">
 
-## 聴講した発表
-### workshop5:[Personalized social robots to support successful Aging](https://sites.google.com/view/personalizedsocialrobotstosupp/home?authuser=0)
-- Personalized robot
-    - <img width="500" alt="スクリーンショット 2024-11-11 12 04 29" src="https://github.com/user-attachments/assets/d7ea36c5-e533-4071-b98b-a8c8370109d9">
-    - 高齢者介護施設でのソーシャルロボット：メニューの選択を収集、薬のリマインド、認知療法を行う
-    - 仕事の重点は、やり取りをする相手に口頭で説明を提供すること（相手：a resident, a family member, nurse, or technician）
-    - 口頭での説明は、相手に合わせて個別に調整する必要ある
-#### 感想
-- これから研究対象を高齢者とする予定があるため、これらのworkshopに参加しました。しかし、内容は高齢者のケア、サービスロボット、高齢者向けのウェアラブルデバイスに関するもので、使用されている手法もECGなどの生体情報が中心で、アンケートやインタビューを使う私の研究とはあまり似ていないです。
-- 個人的に印象深かった点:このworkshopで高齢者向けロボットの設計や応用における重要な課題と改善の可能性について議論されていました。
-    - 例えば、実際の生活環境は実験室や教室などのように静かではないため、騒がしい部屋でも高齢者と円滑に対話できることが重要とされていました。また、高齢者の聴覚は一般の若者よりも衰えていることが多いため、ロボット設計時には環境の騒音レベルや高齢者の聴力を考慮し、必要に応じて音量を調整する必要があると勉強しました。さらに、私たちが研究を進めるとき、「when」「what」「how」を考えることの重要性に気づきました。例えば、「いつコミュニケーションをとるか？」「何を伝えるべきか？」「どのように伝えるか？」といったポイントを明確にした上で研究を進める必要があると感じました。
-- パーソナライズのメリット＆課題
-    - メリット：高齢者支援（supporting staff, automating repetitive tasks:薬のリマインドなど）、個々のニーズや好みに応じた適応（例: 認知療法、運動）
-    - 課題
-        - Stigmatization
-        - 例：孤独感（人間ではなくソーシャルロボットと一緒にいると、「孤立している」と感じてしまい、孤独感やネガティブ感情が増える可能性がある）、社会的地位（ソーシャルロボットによる支援を受けることで、一部の人々は自分が「介護を必要とする」弱者だと感じてしまい、恥ずかしいと思う）、individual stigma（日常生活のタスクをロボットに頼ることが自分の能力低下を意味していると思い、自分のことを否定する気持ちが生まれる可能性があります。自信やメンタルヘルスに影響を与えるかもしれない）
-
-### The Content of Transparency Matters: Evaluating Verbal Transparency about Robot Capabilities
-- <img width="500" alt="スクリーンショット 2024-11-11 12 33 16" src="https://github.com/user-attachments/assets/feb01b2a-3d32-4dc4-b2c5-7e0ca2f8f641">
-- <img width="500" alt="スクリーンショット 2024-11-11 12 33 48" src="https://github.com/user-attachments/assets/8ce87ded-bb1e-4ee5-8324-388ae4f58c16">
-- social robotにおけるtrust calibration（信頼較正）に関する研究
-    - 目的
-        - ロボットの透明性のある（Transparency）発話が、ロボットの信頼性の認知（Trustworthiness）にどのような影響を与えるかを調査しました。
-    - 方法
-        - 研究は[Prolific](https://www.prolific.com/)を使い、参加者にシナリオ化されたビデオを見せ、参加者がロボットに「窓を閉めてください」と頼むという場面を設定しています。実験では4つのグループに分けられました：
-（1）低レベルの能力＋透明性あり（例：「Can you close the window, please? I will close it.」）
-（2）高レベルの能力＋透明性なし（例：「I will close it.」）
-（3）高レベルの能力＋透明性あり（例：「Yes, I can operate the window. I will close it.」）
-（4）ベースライン（音だけの反応、Beep）
-        - 
-        - 参加者にはこの4つのビデオを視聴してもらい、その後、アンケートで信頼性を測定しました。結果として、グループ1と3が信頼性評価で最も高く、グループ2はグループ1と3に比べて有意に低い評価となり、グループ4が最も低い評価でした。
-- 感想
-    - 私の研究方法と似ている点があり（私は実際の対話を用いたのに対し、彼らはシナリオビデオを用いました）、特に「信頼を築くことだけでなく、ロボットの能力と信頼性を正確に反映すること」(Perceived Trustworthiness)が重要であると感じました。trust calibrationの目的は、人とロボットの効果的なインタラクションを促進することです。
-    - 最初はこの研究がロボットによる家電の信頼性についてであると思っていましたが、発表者に聞きました。実際にはロボットが窓を閉めることはできないという設定です。これは、私が考えた「行為提供型」のencouragementが実際の行為を伴わないことと似ていると思い、この研究も完全にシナリオに基づいているものでした。
-    - ただし、現段階ではこの研究のcontributionが完全には理解できない部分もありましたが、oral presentationだけ聴講しましたので、論文が発表されたら再度確認したいと思います。
-
-
-
-
 # 全体的な感想
 - 現在Social robotsに関する研究で関心が高いテーマとして、reliable、trust、emotional support、long-term、wellbeing、empathy、human likeness、real-world experiment、self-disclosure、children向けなどがあると感じました（ただ個人的な感想で、完全なリストではないです）。また、human robot interactionの研究では、多くの場合、human-humanのinteractionを基にして、human behaviorを考慮し、robotのbehaviorやdesignを取り入れて、social interactionにおけるロボットの役割を探求するというプロセスで行われていることが分かりました。さらに、この学会はSocial robots分野の内容に特化しているため、多くの発表がロボットとの対話ビデオを使っており、ビデオを用意すると理解しやすいと感じました。
 - 今回の会議に参加して、自分が少し成長できたと感じています。特に、普段から先生や先輩方に言われている「一つ一つの検討を大事にして、誰に聞かれても理由や妥当性を説明できるように時間をかけることが重要です。」という点がとても大切であると改めて実感しました。
-
-
-
-
-
 
 # ICSR25
 - <img width="500" alt="スクリーンショット 2024-11-11 11 26 25" src="https://github.com/user-attachments/assets/51e7f645-6eb5-4c68-852e-a93fa4b413ed">
