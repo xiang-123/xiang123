@@ -154,14 +154,13 @@ Innovative ideas and concepts, new discoveries and improvements, novel applicati
 - 反省点
     - 会議のプログラム発表が遅く、通知もなく、会議の10日前に発表形式（oralかposterか）が分かりました。通知を待つより、もっと早めに問い合わせて準備に余裕を持つべきであると感じました。
     - みなさんがポスターの置き方が良くないと思い、横向きに置きたいと職員に伝えましたが、難しいです。
-- 学会の最後
-    - <img width="500" alt="スクリーンショット 2024-11-11 11 24 24" src="https://github.com/user-attachments/assets/6dcb5f80-46ee-45a5-a2e7-949006c71dac">
-    - <img width="500" alt="スクリーンショット 2024-11-11 11 58 43" src="https://github.com/user-attachments/assets/6caaac5c-aa5d-48ea-ac1a-d9c467f7a45b">
 
 # 全体的な感想
 - 現在Social robotsに関する研究で関心が高いテーマとして、reliable、trust、emotional support、long-term、wellbeing、empathy、human likeness、real-world experiment、self-disclosure、children向けなどがあると感じました（ただ個人的な感想で、完全なリストではないです）。また、human robot interactionの研究では、多くの場合、human-humanのinteractionを基にして、human behaviorを考慮し、robotのbehaviorやdesignを取り入れて、social interactionにおけるロボットの役割を探求するというプロセスで行われていることがわかりました。
 - この学会はSocial robots分野の内容に特化しているため、多くの発表がロボットとの対話ビデオを使っており、ビデオを用意すると理解しやすいと思います。
 - 今回の会議に参加して、自分が少し成長できたと感じています。特に、普段から先生や先輩方に言われている「一つ一つの検討を大事にして、誰に聞かれても理由や妥当性を説明できるように時間をかけることが重要です。」という点がとても大切であると改めて実感しました。
-
+- 学会の最後
+    - <img width="500" alt="スクリーンショット 2024-11-11 11 24 24" src="https://github.com/user-attachments/assets/6dcb5f80-46ee-45a5-a2e7-949006c71dac">
+    - <img width="500" alt="スクリーンショット 2024-11-11 11 58 43" src="https://github.com/user-attachments/assets/6caaac5c-aa5d-48ea-ac1a-d9c467f7a45b">
 # ICSR25
 - <img width="500" alt="スクリーンショット 2024-11-11 11 26 25" src="https://github.com/user-attachments/assets/51e7f645-6eb5-4c68-852e-a93fa4b413ed">
