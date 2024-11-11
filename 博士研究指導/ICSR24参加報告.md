@@ -83,10 +83,10 @@ Innovative ideas and concepts, new discoveries and improvements, novel applicati
 - social robotにおけるtrust calibration（信頼較正）に関する研究
 - <img width="500" alt="スクリーンショット 2024-11-11 12 33 16" src="https://github.com/user-attachments/assets/feb01b2a-3d32-4dc4-b2c5-7e0ca2f8f641">
 - <img width="500" alt="スクリーンショット 2024-11-11 12 33 48" src="https://github.com/user-attachments/assets/8ce87ded-bb1e-4ee5-8324-388ae4f58c16">
-    - 目的
-        - ロボットの透明性のある（Transparency）発話が、ロボットの信頼性の認知（Trustworthiness）にどのような影響を与えるかを調査しました。
-    - 方法
-        - 研究は[Prolific](https://www.prolific.com/)を使い、参加者にシナリオ化されたビデオを見せ、参加者がロボットに「Can you close the window, please?窓を閉めてください」と頼むという場面を設定しています。実験では4つのグループに分けられました：
+- 目的
+    - ロボットの透明性のある（Transparency）発話が、ロボットの信頼性の認知（Trustworthiness）にどのような影響を与えるかを調査しました。
+- 方法
+    - 研究は[Prolific](https://www.prolific.com/)を使い、参加者にシナリオ化されたビデオを見せ、参加者がロボットに「Can you close the window, please?窓を閉めてください」と頼むという場面を設定しています。実験では4つのグループに分けられました：
 （グループ1）低レベルの能力＋透明性あり（例：「Can you close the window, please? I will close it.」）→自分が何をしているかを簡単に説明
 （グループ2）高レベルの能力＋透明性なし（例：「I will close it.」）→なぜそれが可能なのか説明がなく、ユーザーにとって不透明
 （グループ3）高レベルの能力＋透明性あり（例：「Yes, I can operate the window. I will close it.」）→能力を持っていることをユーザーに伝えることで、信頼を築くための情報を提供
@@ -106,6 +106,7 @@ Innovative ideas and concepts, new discoveries and improvements, novel applicati
 - <img width="500" alt="スクリーンショット 2024-11-11 12 56 29" src="https://github.com/user-attachments/assets/19fad0d3-31b7-4941-9a2d-63c9b035d67b">
 - <img width="500" alt="スクリーンショット 2024-11-11 12 56 45" src="https://github.com/user-attachments/assets/55ddc55a-650c-4c96-b90d-5db20fcb80d7">
 - <img width="500" alt="スクリーンショット 2024-11-11 12 54 35" src="https://github.com/user-attachments/assets/8e53ed44-32a0-40af-9cf1-9cf4603a57a1">
+
 - 研究者たちは多くの現実世界のビデオ録画を通じて、ロボットと人間の社会的な距離や、人間がロボットに対して寛容でいるのか、虐待するのか、尊重するのか、無視するのかといった反応を観察しました。このような状況でロボットを活用するには、適切な社会的・道徳的な相互作用が必要であることが強調されていました。
 
 ### combining control and validity: context management issues in proactive social robotics research
