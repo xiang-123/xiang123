@@ -108,7 +108,26 @@ Innovative ideas and concepts, new discoveries and improvements, novel applicati
     - メリット：高齢者支援（supporting staff, automating repetitive tasks:薬のリマインドなど）、個々のニーズや好みに応じた適応（例: 認知療法、運動）
     - 課題
         - Stigmatization
-        - 例：孤独感（人間ではなくソーシャルロボットと一緒にいると、「孤立している」と感じてしまい、孤独感やネガティブ感情が増える可能性がある）、社会的地位（ソーシャルロボットによる支援を受けることで、一部の人々は自分が「介護を必要とする」弱者だと感じてしまい、恥ずかしいと思う）、individual stigma（日常生活のタスクをロボットに頼ることが自分の能力低下を意味していると思い、自分のことを否定する気持ちが生まれる可能性があります。自信やメンタルヘルスに影響を与えるかも）
+        - 例：孤独感（人間ではなくソーシャルロボットと一緒にいると、「孤立している」と感じてしまい、孤独感やネガティブ感情が増える可能性がある）、社会的地位（ソーシャルロボットによる支援を受けることで、一部の人々は自分が「介護を必要とする」弱者だと感じてしまい、恥ずかしいと思う）、individual stigma（日常生活のタスクをロボットに頼ることが自分の能力低下を意味していると思い、自分のことを否定する気持ちが生まれる可能性があります。自信やメンタルヘルスに影響を与えるかもしれない）
+
+### The Content of Transparency Matters: Evaluating Verbal Transparency about Robot Capabilities
+- <img width="500" alt="スクリーンショット 2024-11-11 12 33 16" src="https://github.com/user-attachments/assets/feb01b2a-3d32-4dc4-b2c5-7e0ca2f8f641">
+- <img width="500" alt="スクリーンショット 2024-11-11 12 33 48" src="https://github.com/user-attachments/assets/8ce87ded-bb1e-4ee5-8324-388ae4f58c16">
+- social robotにおけるtrust calibration（信頼較正）に関する研究
+    - 目的
+        - ロボットの透明性のある（Transparency）発話が、ロボットの信頼性の認知（Trustworthiness）にどのような影響を与えるかを調査しました。
+    - 方法
+        - 研究は[Prolific](https://www.prolific.com/)を使い、参加者にシナリオ化されたビデオを見せ、参加者がロボットに「窓を閉めてください」と頼むという場面を設定しています。実験では4つのグループに分けられました：
+（1）低レベルの能力＋透明性あり（例：「Can you close the window, please? I will close it.」）
+（2）高レベルの能力＋透明性なし（例：「I will close it.」）
+（3）高レベルの能力＋透明性あり（例：「Yes, I can operate the window. I will close it.」）
+（4）ベースライン（音だけの反応、Beep）
+        - 
+        - 参加者にはこの4つのビデオを視聴してもらい、その後、アンケートで信頼性を測定しました。結果として、グループ1と3が信頼性評価で最も高く、グループ2はグループ1と3に比べて有意に低い評価となり、グループ4が最も低い評価でした。
+- 感想
+    - 私の研究方法と似ている点があり（私は実際の対話を用いたのに対し、彼らはシナリオビデオを用いました）、特に「信頼を築くことだけでなく、ロボットの能力と信頼性を正確に反映すること」(Perceived Trustworthiness)が重要であると感じました。trust calibrationの目的は、人とロボットの効果的なインタラクションを促進することです。
+    - 最初はこの研究がロボットによる家電の信頼性についてであると思っていましたが、発表者に聞きました。実際にはロボットが窓を閉めることはできないという設定です。これは、私が考えた「行為提供型」のencouragementが実際の行為を伴わないことと似ていると思い、この研究も完全にシナリオに基づいているものでした。
+    - ただし、現段階ではこの研究のcontributionが完全には理解できない部分もありましたが、oral presentationだけ聴講しましたので、論文が発表されたら再度確認したいと思います。
 
 
 
