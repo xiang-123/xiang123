@@ -109,7 +109,7 @@ Innovative ideas and concepts, new discoveries and improvements, novel applicati
 - 研究者たちは多くの現実世界のビデオ録画を通じて、ロボットと人間の社会的な距離や、人間がロボットに対して寛容でいるのか、虐待するのか、尊重するのか、無視するのかといった反応を観察しました。このような状況でロボットを活用するには、適切な社会的・道徳的な相互作用が必要であることが強調されていました。
 
 ### combining control and validity: context management issues in proactive social robotics research
-- <img width="500" alt="スクリーンショット 2024-11-11 13 00 44" src="https://github.com/user-attachments/assets/33a72fe9-4834-47b2-939d-b5854022073e">
+- <img width="400" alt="スクリーンショット 2024-11-11 13 00 44" src="https://github.com/user-attachments/assets/33a72fe9-4834-47b2-939d-b5854022073e">
 - 内容
     - （a）社会ロボティクス研究において構築された環境を使用することが外部および内部の妥当性に与える可能性のある影響を考察
     - （b）解決が必要なコンテキスト管理の問題を説明
