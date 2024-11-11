@@ -80,9 +80,9 @@ Innovative ideas and concepts, new discoveries and improvements, novel applicati
         - 例：孤独感（人間ではなくソーシャルロボットと一緒にいると、「孤立している」と感じてしまい、孤独感やネガティブ感情が増える可能性がある）、社会的地位（ソーシャルロボットによる支援を受けることで、一部の人々は自分が「介護を必要とする」弱者だと感じてしまい、恥ずかしいと思う）、individual stigma（日常生活のタスクをロボットに頼ることが自分の能力低下を意味していると思い、自分のことを否定する気持ちが生まれる可能性があります。自信やメンタルヘルスに影響を与えるかもしれない）
 
 ### The Content of Transparency Matters: Evaluating Verbal Transparency about Robot Capabilities
+- social robotにおけるtrust calibration（信頼較正）に関する研究
 - <img width="500" alt="スクリーンショット 2024-11-11 12 33 16" src="https://github.com/user-attachments/assets/feb01b2a-3d32-4dc4-b2c5-7e0ca2f8f641">
 - <img width="500" alt="スクリーンショット 2024-11-11 12 33 48" src="https://github.com/user-attachments/assets/8ce87ded-bb1e-4ee5-8324-388ae4f58c16">
-- social robotにおけるtrust calibration（信頼較正）に関する研究
     - 目的
         - ロボットの透明性のある（Transparency）発話が、ロボットの信頼性の認知（Trustworthiness）にどのような影響を与えるかを調査しました。
     - 方法
@@ -100,12 +100,12 @@ Innovative ideas and concepts, new discoveries and improvements, novel applicati
     - ただし、現段階ではこの研究のcontributionが完全には理解できない部分もありましたが、oral presentationだけ聴講しましたので、論文が発表されたら再度確認したいと思います。
 
 ### [keynote: Takayuki Kanda](https://icsr2024.dk/index.php/keynotes/#Kanda)
+- ロボットが現実世界で直面する難しさを紹介しました。
 - <img width="500" alt="スクリーンショット 2024-11-11 12 53 37" src="https://github.com/user-attachments/assets/35cdb2f0-8316-4051-b51a-44ea2625a429">
 - <img width="500" alt="スクリーンショット 2024-11-11 12 54 11" src="https://github.com/user-attachments/assets/feaf0422-b4ca-46a6-8722-ea13202334e8">
 - <img width="500" alt="スクリーンショット 2024-11-11 12 56 29" src="https://github.com/user-attachments/assets/19fad0d3-31b7-4941-9a2d-63c9b035d67b">
 - <img width="500" alt="スクリーンショット 2024-11-11 12 56 45" src="https://github.com/user-attachments/assets/55ddc55a-650c-4c96-b90d-5db20fcb80d7">
 - <img width="500" alt="スクリーンショット 2024-11-11 12 54 35" src="https://github.com/user-attachments/assets/8e53ed44-32a0-40af-9cf1-9cf4603a57a1">
-- ロボットが現実世界で直面する難しさを紹介しました。
 - 研究者たちは多くの現実世界のビデオ録画を通じて、ロボットと人間の社会的な距離や、人間がロボットに対して寛容でいるのか、虐待するのか、尊重するのか、無視するのかといった反応を観察しました。このような状況でロボットを活用するには、適切な社会的・道徳的な相互作用が必要であることが強調されていました。
 
 ### combining control and validity: context management issues in proactive social robotics research
