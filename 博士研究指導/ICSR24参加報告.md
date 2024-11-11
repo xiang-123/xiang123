@@ -1,4 +1,4 @@
-# ICSR24学会参加報告
+![image](https://github.com/user-attachments/assets/872dccbd-6dee-4ca5-b04e-8d3e9bc1807a)# ICSR24学会参加報告
 - 2024/11/11
 - 10~15分
 
@@ -110,15 +110,21 @@ Innovative ideas and concepts, new discoveries and improvements, novel applicati
 
 ### combining control and validity: context management issues in proactive social robotics research
 - <img width="500" alt="スクリーンショット 2024-11-11 13 00 44" src="https://github.com/user-attachments/assets/33a72fe9-4834-47b2-939d-b5854022073e">
-- 内容：
+- 内容
     - （a）社会ロボティクス研究において構築された環境を使用することが外部および内部の妥当性に与える可能性のある影響を考察
     - （b）解決が必要なコンテキスト管理の問題を説明
-- 大事だと思う：Table1. Typs of studies in social robotics: the "natural-controlled" dimension
-    - 
-
-
-
-
+- ソーシャルロボティクス研究における自然環境と構築環境
+    - 「自然-コントロール」
+    - 環境、タスク、技術、および技術の所有権
+- 大事だと思う点：Table1. Typs of studies in social robotics: the "natural-controlled" dimension
+    - <img width="500" alt="スクリーンショット 2024-11-11 14 18 17" src="https://github.com/user-attachments/assets/50b7adfe-fd58-4575-bb80-bd5e8f0a681a">
+- 感想
+    - 修士研究:Constructed → Field testing + Not short-term + Controlled experiment　→　WoZ and higher fidelity　→　researchers　→ technology, tasks
+- 結論
+    - 構築された環境で行われる研究の妥当性を確保するためには、コンテキスト（研究の環境や条件やインタラクションの方法、心理的・社会的背景など）を中心的な分析構造として明示的に認識する必要がある
+    - 構築された「内側」のコンテキスト層と現実の「外側」のコンテキスト層の間には一貫性がなければならない
+    - 研究コンテキストの主観的解釈は、体系的な実証分析を通じて明らかにされるべき
+    - コンテキストの分析には、その動態、例えばユーザーの期待や新奇効果に関連するものに焦点を当てるべき
 
 ## 自分の発表(10/25 Day3,Denmark)
 - 今回の発表形式では、まず一部の発表者がTeaser talkで簡単に研究を紹介して、その後、興味を持った人がポスター発表を聞きに来る形でした。Teaser talkがあったおかげで、そしてDay1に深く交流したこともあって、私の実験の詳細を尋ねに来た人が多かったです。
@@ -152,7 +158,8 @@ Innovative ideas and concepts, new discoveries and improvements, novel applicati
     - <img width="500" alt="スクリーンショット 2024-11-11 11 58 43" src="https://github.com/user-attachments/assets/6caaac5c-aa5d-48ea-ac1a-d9c467f7a45b">
 
 # 全体的な感想
-- 現在Social robotsに関する研究で関心が高いテーマとして、reliable、trust、emotional support、long-term、wellbeing、empathy、human likeness、real-world experiment、self-disclosure、children向けなどがあると感じました（ただ個人的な感想で、完全なリストではないです）。また、human robot interactionの研究では、多くの場合、human-humanのinteractionを基にして、human behaviorを考慮し、robotのbehaviorやdesignを取り入れて、social interactionにおけるロボットの役割を探求するというプロセスで行われていることが分かりました。さらに、この学会はSocial robots分野の内容に特化しているため、多くの発表がロボットとの対話ビデオを使っており、ビデオを用意すると理解しやすいと感じました。
+- 現在Social robotsに関する研究で関心が高いテーマとして、reliable、trust、emotional support、long-term、wellbeing、empathy、human likeness、real-world experiment、self-disclosure、children向けなどがあると感じました（ただ個人的な感想で、完全なリストではないです）。また、human robot interactionの研究では、多くの場合、human-humanのinteractionを基にして、human behaviorを考慮し、robotのbehaviorやdesignを取り入れて、social interactionにおけるロボットの役割を探求するというプロセスで行われていることがわかりました。
+- この学会はSocial robots分野の内容に特化しているため、多くの発表がロボットとの対話ビデオを使っており、ビデオを用意すると理解しやすいと思います。
 - 今回の会議に参加して、自分が少し成長できたと感じています。特に、普段から先生や先輩方に言われている「一つ一つの検討を大事にして、誰に聞かれても理由や妥当性を説明できるように時間をかけることが重要です。」という点がとても大切であると改めて実感しました。
 
 # ICSR25
