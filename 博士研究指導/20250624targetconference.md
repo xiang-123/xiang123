@@ -37,12 +37,10 @@
 
 ## 調べた内容
 - **対話エージェント**が**ある方法**を使って**人間のwell-beingを高める**
-  - International Journal of Social Robotics2024年以降の論文
-  - [AAAI 2025 spring symposium](https://sites.google.com/view/aaai25-ai4health/home)2025/03/31-04/02
-    - [論文集](https://ojs.aaai.org/index.php/AAAI-SS/issue/view/654)
+  - [AAAI 2025 spring symposium](https://sites.google.com/view/aaai25-ai4health/home) (2025/03/31-04/02)の[論文集](https://ojs.aaai.org/index.php/AAAI-SS/issue/view/654)
     - Workshop on Large Language Models and Generative AI for Health at AAAI 2025
-    - Human-Compatible AI for Well-being: Harnessing Potential of GenAI for AI-Powered Science
   - Human robot interaction HRI2025 Robots for a Sustainable World、Human robot interaction HRI2024
+  - International Journal of Social Robotics2024年以降の論文
   - RO-MAN 2024、RO-MAN 2025
 - キーワード：conversational robot, chatbot, dialogue system, interaction, wellbeing, emotional support
 
@@ -50,124 +48,100 @@
 ## 調べた結果
 |タイトル|年|著者|学会名/雑誌名|URL|
 |:---|:---:|:---:|:---:|:---:|
-|A Brief Wellbeing Training Session Delivered by a Humanoid Social Robot: A Pilot Randomized Controlled Trial|2023|Nicole L. Robinson, Jennifer Connolly, Gavin Suddrey & David J. Kavanagh|International Journal of Social Robotics, Volume 16, pages 937–951, (2024)|[URL](https://link-springer-com.waseda.idm.oclc.org/article/10.1007/s12369-023-01054-5)|
+|An Interactive Monitoring Robot for Dementia Mitigation via Daily Conversations with Multiple LLMs|2025|Masayuki Numao, Masahiro Kawamura|AAAI 2025 spring symposium|[URL](https://ojs.aaai.org/index.php/AAAI-SS/article/view/35595/37750)|
+|Dialogic Learning in Child-Robot Interaction: A Hybrid Approach toPersonalized Educational Content Generation|2025|Elena Malnatsky, Shenghui Wang, Koen V. Hindriks, Mike E.U. Ligthart|AAAI 2025 spring symposium|[URL](https://ojs.aaai.org/index.php/AAAI-SS/article/view/35622/37777)|
+
+
+
+
 |Building Long-Term Human–Robot Relationships: Examining Disclosure, Perception and Well-Being Across Time|2023|Guy Laban, Arvid Kappas, Val Morrison & Emily S. Cross|International Journal of Social Robotics, Volume 16, pages 1–27, (2024)|[URL](https://link-springer-com.waseda.idm.oclc.org/article/10.1007/s12369-023-01076-z)|
 
+
 ## 研究詳細
-### International Journal of Social Robotics, Volume 16, pages 937–951, (2024)：研究1
-- [A Brief Wellbeing Training Session Delivered by a Humanoid Social Robot: A Pilot Randomized Controlled Trial](https://link-springer-com.waseda.idm.oclc.org/article/10.1007/s12369-023-01054-5)
-- Published: 12 October 2023
+### AAAI 2025 spring symposium：研究1
+- [An Interactive Monitoring Robot for Dementia Mitigation via Daily Conversations with Multiple LLMs](https://ojs.aaai.org/index.php/AAAI-SS/article/view/35595/37750)
+
 ### 背景
-- 成人の心理的苦痛（psychological distress）が増加しており、効果的な心理的支援が必要。
-- social robotsは医療分野での利用が進んでいるが、特に心理的支援技術の提供に関する研究は限られている。
-- マインドフルネス（mindfulness）はストレスの緩和と心理的健康の促進に有効的が、その手法をロボットで提供する研究はまだ初期段階である。
-- この研究は、social robotsによるマインドフルネスのトレーニングの可能性と効果を評価する。
+- 高齢化に伴い認知症患者が増加し、介護者の負担が深刻化している
+- LLMの発展により、高齢者のセルフケア支援や対話による認知評価の可能性が広がっている
+- 既存の音声チャットボットは薬のリマインドや情報検索には有用だが、HDS-R（長谷川式簡易知能評価スケール）のような正式スクリーニングを柔軟かつ日常的に実施できる仕組みは足りない
 
 ### 目的
-- 自律型のヒューマノイドソーシャルロボット（autonomous humanoid robot）を使って、10分間のマインドフルネス呼吸瞑想（mindful breathing meditation）を提供することの実用性（utility）と受容性（acceptability）を調査する。
-- ロボットを用いたマインドフルネスのトレーニングと一般的な対話を比較し、心理状態に与える影響を調査する。
-- 性別と心理的苦痛（psychological distress）のレベルによる効果の違いを調査する。
-- 将来はロボットが提供する長期的な福祉プログラムの将来的な開発可能性を探り、より大規模な縦断的試験の可能性を探ることを目指す。
-
+- Detector・ChitChat・StrictTaskの3つのLLMをLangChainで統合
+- 日常の雑談とHDS-Rを同一対話内で行える対話システムを構築
+- 12種類の想定シナリオと既存ルールベースシステムとの比較により、以下の3点を評価した
+    - 対話の安定性
+    - HDS-R採点精度
+    - 対話の質（従来システムとの比較）
 ### 対象
-- 230名の参加者が試験に参加（平均年齢29歳、SD=11.77、範囲は18–67歳）
-    - 女性108名（47%）、男性122名（53%）
-- 教育背景：71%が高等教育（higher education）を受けており、多くが大学生
-- ロボット経験は低い：M = 2.00, SD = 2.44（範囲 = 0–10）
-- プログラミング経験は少ない：M = 3.23, SD = 2.94（範囲 = 0–10）
-- 被験者属性の事前調査
-    - 収集したデータ：
-        - 年齢、性別、婚姻状況、最終学歴、現在の学習状況および研究分野、就業状況および職種
-        - 感情状態（リラックス（Relaxed）、満足感（Content）、集中力（Focused））に関するスコア（0 = 全く感じない, 10 = 非常に強く感じる）
-        - マインドフルネス経験の有無、練習頻度（毎日、毎週、隔週、毎月、数ヶ月に一回、一回か二回だけなど）
+- 開発段階なので、被験者募集は行わなかった
+    - 想定対話シナリオ（12件）を用いたシミュレーション評価
+    - 介護施設でのデモンストレーションを実施
 ### 実験デザインの詳細
-- ランダム化比較試験(RCT)，2つのグループに分けた比較
-- セッション時間：1回10分。ロボットとタブレットを使って実験を実施（対話とアンケート）
-    - グループ1(Technique)
-        - 内容：ロボットが1分間のマインドフルネスのトレーニングを指導し、参加者が自主的に1分間の練習をする
-        - 手順：ロボットからマインドフルネスの重要性について説明し、参加同意したら、1分間のマインドフルネスのトレーニングを指導し、そして自主的に1分間の練習をする。
-    - グループ2(Control)
-        - ロボットが基本情報（例：名前、身長、医療用途など）を説明した後、簡単な３つの質問を聞く
-        - 質問内容：Q1.How did you get here today,  Q2.which animal would you like to have as a pet, Q3.what season do you like the best. The robot gave a closed answer set for them to choose their response (i.e. car, bike, bus, walk, train, ferry).
-        - 回答後：ロボットが参加者の回答を要約し、要約した内容が正しいかどうかについて確認を求める（Yes/No）
-- 実験デザインの目的
-    - Technique条件でのマインドフルネスの効果を検証し、Control条件での待機リストのコントロールとして比較
+- 対話の安定性：12種類のシナリオ（例：全問正答、計算ミス、ヒント要求、途中中断など）で「対話が想定どおり進行するか」を判断
+- HDS-R採点精度：StrictTask が条件分岐・再質問を正しく制御し得点化できるかを検証
+- 既存システムとの比較：診断機能・雑談機能・応答速度などの比較
 
 ### 具体的な対話内容
-- グループ1(Technique)
-    - 内容：ロボットがマインドフルネスの重要性を説明し、1分間の呼吸法を指導。続けて自主練習を促す
-    - 選択肢：説明や練習をスキップすることも可能
-- グループ2(Control)
-    - 内容：ロボットが研究目的や自身の基本情報を説明後、交通手段や好きなペットなどに関する質問を行う
-    - 応答：回答を音声で要約し、正確性の確認を求める（Yes/No）
+- 挨拶＋話題提案：**S**:Good morning. How are you feeling today? Dinner was delicious today?（Detector： “Greeting→Meal”と意図推定、ChitChat：日常会話）
+- 共感的フォローアップ：**S**:That sounds lovely. What did you enjoy most?（ChitChatのプロンプト：“2文以内・共感・質問で深掘り”を指示）
+- 健康話題：**U**:I haven’t been feeling well lately.（Detector：“Weather→Health”と切り替え、健康相談に移る）
+- モニタリング終了or評価　**U**:Please diagnose me.(“診断して” などのキーワードを検出するとStrictTaskを起動、HDS-R認知機能評価開始)
+- HDS-R認知機能評価フロー（10問）：発話は1問ずつ/誤答や沈黙時は再質問 or ヒント提示（ヒント例：「I don’t know」／沈黙 → システムが事前定義ヒントを提示（例：日付ヒントは “It’s October today.”））
 
 ### 使ったアンケート
-- **Kessler Psychological Distress Scale（K-10）**
-    - 過去4週間の心理的困難を評価
-    - 10項目、５件法
-        - 例：anxiety (不安), tiredness (疲労), agitation (焦燥), and depression (抑うつ), 1 = None of the time, 5 = All of the time
-    - スコア分類：低（10–15）、中（16–21）、高（22–29）、非常に高（30–50）
-    - この研究ではスコアを低苦痛（≤21）と高苦痛（≥22）の2群に分類した
-- **The Robot Incentives Scale (RIS)**
-    - perceived incentives to engage with a social robot(ロボットとの関与意欲)
-    - 3つのサブスケール
-        - 「Emotion」（感情的側面）：ロボットの好感度を評価する5項目
-        - 「Social」（社会的側面）：社会的・関係的側面を評価する3項目
-        - 「Utility」（実用性）：ロボットの実用性を評価する4項目
-    -  各項目は11段階で評価される（0 = 全く当てはまらない、10 = 非常に当てはまる）
-- **The Robot Usage Intention (RUI)**
-    - ロボットとのインタラクション意欲（短期・長期）を測定（how willing people would be to interact with the robot）
-    - 5項目の質問 (0 = Not at all, 10 = Definitely) 
-- **The Robot Disclosure Questionnaire**
-    - ロボットとの対話における以下の2つの側面を評価する
-        - 可能性 (Likelihood, Likely): ロボットと話す可能性（5項目）
-        - 快適さ (Comfort): ロボットと話す際の快適さ（5項目）
-        - 11件法：0 = Not at all, 11 = Definitely
-    - 評価対象のトピック (Topics Assessed):
-        - 非健康話題
-            - (1)カジュアルな会話トピック (Casual conversation topics)
-            - (2)課題解決やタスクの支援 (Solving a problem or getting help with a task)
-            - (3)センシティブなトピックに関する助言・支援 (Getting advice or support on a sensitive topic)
-        - 健康関連話題
-            - (4)医学的症状や病状 (Medical symptoms or conditions)
-            - (5)メンタルヘルスの症状や状態 (Mental health symptoms or conditions)
+- 認知機能評価にHDS-R（満点30点、21点未満で認知症疑い）を組み込み、StrictTaskが対話内で自動採点
 
 ### 結果
-- **グループ1(Technique)とグループ2(Control)の比較**
-    - 感情(Emotion)スコアについて、リラックス（Relaxed）、満足感（Content）、集中力（Focused）のスコア変化において、両グループ間に有意差はなかった
-    - 両グループとも、実験の前後で感情スコア（Emotion,ロボットの好感度）が有意に向上（Relaxed: F(1228) = 101.68, p < 0.001；Content: F(1228) = 58.34, p < 0.001；Focused: F(1228) = 19.62, p < 0.001）
-- **感情改善の具体的な効果**
-    - 低苦痛群（K-10 ≤ 21） は、グループ1(Technique)でグループ2(Control)より満足感（Content）が有意に向上した
-    - 性別の影響
-        - 男性はリラックス（Relaxed）スコアが女性より高かった
-        - 高苦痛群の女性（K-10 ≥ 22）は、男性および低苦痛群の女性よりリラックス（Relaxed）スコアが低かった
-- **ロボットに対する評価（Robot Evaluation）**
-    - 感情スコア（Emotion）：高苦痛群の男性は低苦痛群の男性より感情スコアが高く、女性は逆の傾向を示した
-    - 実用性スコア（Utility）：グループ2(Control)はグループ1(Technique)より高く、高苦痛群の参加者は低苦痛群より実用性スコアが高かった
-    - 社会性スコア（Social）：有意差は見られなかった
-- **ロボットとの話題選択の傾向**
-    - 健康関連話題より非健康話題を選ぶ傾向がある，非健康話題をより快適(Comfort)と感じる傾向があった
-- **性別と苦痛レベルが快適さ（Comfort）に与える影響**
-    - 高苦痛群の男性は低苦痛群の男性より非健康話題での快適さ(Comfort)が高く、高苦痛群の女性は低苦痛群の女性より快適さ(Comfort)が低かった
-    - 条件（Technique または Control）は、性別および苦痛レベルとの交互作用によって快適さ(Comfort)に影響を与えた
+- 対話の安定性
+    - 多くのシナリオで：システムはスムーズに対話を進めることができた
+    - ただし、計算や記憶の課題では、ユーザの間違いや曖昧な回答に対する処理に問題が見られた
+- HDS-Rの評価精度
+    - 厳密な条件分岐の処理は、従来のルールベースと比べて少し弱かった
+    - 全体の診断結果には大きな差はなく、十分実用的な精度が得られた
+- 対話の質（従来システムとの比較）
+    - 雑談の自然さや応答の速さは、このシステムが明らかに優れていた
+    - 特に「野菜をできるだけ挙げてください」といった自由回答形式では、柔軟に応じることができた
+    - ただし、あいまいな回答への対応や、ヒントの出し方（時に正解をそのまま言ってしまうなど）は今後の改善点とされた
 
-#### 比較
-|ポイント|先行研究|自分の研究|
-|:---|:---:|:---:|
-|目的|ロボットによるマインドフルネスの提供でwell-beingを高める|励まし発話を提供する対話ロボットによって主観的幸福感を向上させる|
-|対話エージェント実体の有無|実体あり|実体あり|
-|言語/非言語|言語|言語|
-|音声/テキスト|音声＋テキスト（同じ内容、音声識別・言語処理なし）|音声のみ|
-|Woz/自動生成|自動生成（ルールベース、非Woz）|自動生成|
-|音声対話実験実施の有無|あり（対照実験）|あり（対照実験）|
-|対照実験|ロボットのマインドフルネスのトレーニング（Technique）vs. 一般対話（Control）|対人間 vs. 対ロボット|
-|対象|18-67歳の被験者230名|高齢者16名程度|
-|wellbeingとは|リラックス（Relaxed）、満足感（Content）、集中力（Focused）|subjective well-being(SWB)|
-|wellbeingを高める方法|mindfulness|効果的な励まし発話を提供|
-|インタラクションの期間と毎回インタラクションの長さ|短期、1回（10分程度）|長期（8週間予定）、週1回程度（毎回20分程度）|
-|評価（主観評価/客観評価）|ロボットとの音声＋テキストのインタラクションを通じて、リラックス（Relaxed）、満足感（Content）、集中力（Focused）が上がったかに対する主観評価|音声対話を通じてSWBが上がったかに対する主観評価|
-|評価対象|ロボットとインタラクション（マインドフルネス、対話する）**前後**の気分**変化**|対話ロボットから提供された励ましを聞いた**前後**、SWBの**変化**|
-|着目点|ロボットが10分間のマインドフルネスを提供することの実用性（utility）と受容性（acceptability）を調査、ロボットのマインドフルネスのトレーニング（Technique）と一般対話（Control）の比較|対話ロボットの励ましという言語行為がユーザに与える影響、ロボットと人間の比較|
+
+### AAAI 2025 spring symposium：研究2
+- [Dialogic Learning in Child-Robot Interaction: A Hybrid Approach toPersonalized Educational Content Generation](https://ojs.aaai.org/index.php/AAAI-SS/article/view/35622/37777)
+
+### 背景
+- 対話的学習 (Dialogic Learning) は、対話を通じて批判的思考や内発的動機づけを高める教育手法として注目されている。しかし、教室全体で児童個々に合わせて実践するのは依然として難しい
+- LLMを用いれば、学習者の興味や発達段階に応じた発話を自動生成できる。しかし、事実誤りや年齢不適切な内容が混入する危険性があり、教育現場での活用には慎重な検証が不可欠
+- 既存の子ども―ロボット対話の多くは固定的なルールベースに依存、個別化と安全性の両立が課題として残っている
+
+### 目的
+- 人間専門家の設計指針、ルールベースの対話骨格、オフライン LLM による発話生成、二段階の検証を組み合わせたハイブリッド枠組みを提案し、児童ごとに最適化された安全な対話的学習を実現
+- 小学校現場で実施したRobot-Bookwormプロジェクトを例に、枠組みの有効性と児童の読書動機づけ向上の可能性を示すこと
+
+### 対象
+- オランダ国内の公立小学校に在籍する9〜11歳の児童100名
+- 各児童には異なる児童書を1冊ずつ割り当て、4週間にわたりロボットとの対話を行った
+
+### 実験デザインの詳細
+- インタラクション期間・頻度：4週間、週1回、計4セッション
+- ロボット：NAO（Name:Leo）
+- 対話構成
+    - ルールベース：挨拶、雑談、読書計画など教育上必須の流れを固定スクリプト化
+    - LLM自動生成：児童プロフィールと書籍メタデータを入力し、質問・感想・ジョークなどをオフラインで生成
+    - 二重チェック
+        - Step1:LLM が自分で内容を評価(適切性・理解度・年齢適合性等)
+        - Step2:教育・HRI 研究チームのメンバー（モデレーター）が低スコアだけ修正
+
+### 具体的な対話内容
+- あいさつと前回の確認：「こんにちは、Emma さん。前回は◯ページまで読みましたね。今日はどの場面が印象的でしたか？」
+- 本の場面についてオープン質問：「Peter Panが空を飛ぶ場面をどう思いましたか？」
+- 子どもの興味に合わせた深掘り質問（LLM生成）：「もしEmmaさんが空を飛べるとしたら、最初にどこへ行きたいですか？」
+- 簡単なジョークや感想：「海賊が文法チェッカーを使わない理由を知っていますか？いつも“Arrr！”と言うからです！」
+- 「来週も楽しみにしているね」で終了：「共有してくれてありがとう。次回は新しい章について聞かせてくださいね。」
+
+### 使ったアンケート
+- 論文では詳細名を出していませんが、読書意欲 と 対話の満足度 を毎回短い質問で集めました。
+
+### 結果
 
 
 
@@ -280,6 +254,38 @@
 |評価（主観評価/客観評価）|音声対話を通じて、対話前後の気分、孤独感、ストレス、自己開示程度対する主観評価|音声対話を通じてSWBが上がったかに対する主観評価|
 |評価対象|対話する**前後**、心理的健康の**変化**|対話ロボットから提供された励ましを聞いた**前後**、SWBの**変化**|
 |着目点|①長期的なSocial Robotsとの対話が、自己開示行動、ロボットに対する認識、心理的健康に与える影響を調査。②ロボットによるCOVID-19関連テーマと一般テーマの効果の比較|対話ロボットの励ましという言語行為がユーザに与える影響、ロボットと人間の比較|
+
+
+
+
+
+
+
+|ポイント|先行研究|自分の研究|
+|:---|:---:|:---:|
+|目的|ロボットによるマインドフルネスの提供でwell-beingを高める|励まし発話を提供する対話ロボットによって主観的幸福感を向上させる|
+|対話エージェント実体の有無|実体あり|実体あり|
+|言語/非言語|言語|言語|
+|音声/テキスト|音声＋テキスト（同じ内容、音声識別・言語処理なし）|音声のみ|
+|Woz/自動生成|自動生成（ルールベース、非Woz）|自動生成|
+|音声対話実験実施の有無|あり（対照実験）|あり（対照実験）|
+|対照実験|ロボットのマインドフルネスのトレーニング（Technique）vs. 一般対話（Control）|対人間 vs. 対ロボット|
+|対象|18-67歳の被験者230名|高齢者16名程度|
+|wellbeingとは|リラックス（Relaxed）、満足感（Content）、集中力（Focused）|subjective well-being(SWB)|
+|wellbeingを高める方法|mindfulness|効果的な励まし発話を提供|
+|インタラクションの期間と毎回インタラクションの長さ|短期、1回（10分程度）|長期（8週間予定）、週1回程度（毎回20分程度）|
+|評価（主観評価/客観評価）|ロボットとの音声＋テキストのインタラクションを通じて、リラックス（Relaxed）、満足感（Content）、集中力（Focused）が上がったかに対する主観評価|音声対話を通じてSWBが上がったかに対する主観評価|
+|評価対象|ロボットとインタラクション（マインドフルネス、対話する）**前後**の気分**変化**|対話ロボットから提供された励ましを聞いた**前後**、SWBの**変化**|
+|着目点|ロボットが10分間のマインドフルネスを提供することの実用性（utility）と受容性（acceptability）を調査、ロボットのマインドフルネスのトレーニング（Technique）と一般対話（Control）の比較|対話ロボットの励ましという言語行為がユーザに与える影響、ロボットと人間の比較|
+
+
+
+
+
+
+
+
+
 
 ## ターゲット学会報告の目的
 ### 1. 2018年以降の「**対話エージェント**が**ある方法**を使って**人間のwell-beingを高める**先行研究」の共有（前のまとめからまだ調べきれていない先行研究の追加）
