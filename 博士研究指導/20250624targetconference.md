@@ -1,0 +1,370 @@
+# D2春学期ターゲット学会報告
+## 研究テーマ
+- 長期的インタラクションにおける対話ロボットの励まし発話がユーザの主観的幸福感に与える影響
+
+## 研究の最終目的
+- 人間同士の対話と人間ーロボットの対話を比較し、長期間のインタラクションを通じて、人間と対話ロボットによる励まし発話が、悩みを持つ高齢者の主観的幸福感に与える影響を明らかにする
+
+## ターゲット学会報告の目的
+1. 2018年以降の「**対話エージェント**が**ある方法**を使って**人間のwell-beingを高める**先行研究」の共有（前のまとめからまだ調べきれていない先行研究の追加）
+    - **ある方法**はどのような方法か？
+    - **well-being**はどのようなものか？
+    - どのような**学会/雑誌**か？
+2. 今まで調べてきた先行研究から、自分の研究の立ち位置を明確
+    - 自分が選んだ研究領域がどれだけ進んでいるか、何が未解明なのかを取り上げる
+    - 自分はどこからどこまでを明確にするのか
+
+#### *過去の内容
+- [M1春学期のターゲット学会報告](https://github.com/kikuchiken-waseda/Xiang-Lingxuan/blob/master/M1/seminar/spring/20220711%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%83%E3%83%88%E5%AD%A6%E4%BC%9A.md)：対話エージェントがある方法を使って人間の主観的幸福感を向上させる先行研究1件を共有した
+- [M1秋学期のターゲット学会報告](https://github.com/kikuchiken-waseda/Xiang-Lingxuan/blob/master/M1/seminar/autumn/20221128%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%83%E3%83%88%E5%AD%A6%E4%BC%9A.md)：2017年以降のAAAI+HAI+IEEEの「対話エージェントによりユーザのwell-beingを高める研究」を共有した
+- [M2春学期のターゲット学会報告](https://github.com/kikuchiken-waseda/Xiang-Lingxuan/edit/master/M2/seminar/spring/20230703%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%83%E3%83%88%E5%AD%A6%E4%BC%9A.md)：2023の3月のAAAI 2023 spring symposium＋他の学会の「対話エージェントによりユーザのwell-beingを高める研究」、関連研究、近い研究をまとめた
+- [M2秋学期のターゲット学会報告](https://github.com/kikuchiken-waseda/Xiang-Lingxuan/edit/master/M2/seminar/autumn/20231120%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%83%E3%83%88%E5%AD%A6%E4%BC%9A.md)：今まで調べてきた2018年以降の**対話エージェント**が**ある方法**を使って**人間のwell-beingを高める研究**、来年以降にターゲット学会となりそうな国際学会に関する情報をまとめた
+- [D1春学期のターゲット学会報告](https://github.com/kikuchiken-waseda/Xiang-Lingxuan/blob/master/D1/spring/seminar/20240701%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%83%E3%83%88%E5%AD%A6%E4%BC%9A.md)：前のまとめからまだ調べきれていない先行研究の追加:HRI学会の2件
+- [D1秋学期のターゲット学会報告](https://github.com/kikuchiken-waseda/Xiang-Lingxuan/edit/master/D1/autumn/seminar/20241125%E3%82%BF%E3%83%BC%E3%82%B2%E3%83%83%E3%83%88%E5%AD%A6%E4%BC%9A.md)：前のまとめからまだ調べきれていない先行研究の追加:International Journal of Social Robotics論文の2件、自分の研究の立ち位置を明確
+
+|ポイント|自分の研究|先行研究|
+|:---:|:---:|:---:|
+|対話エージェント実体の有無|実体あり|実体あり？なし？|
+|言語/非言語|言語|言語か？非言語か？|
+|音声/テキスト|音声|音声？テキスト？|
+|WoZ/自動生成|自動生成|WoZ？自動生成？|
+|well-beingに関わる感情|Subjective Well-being, SWB（主観的幸福感/高齢者の場合、主観的健康感など）|どのような感情を研究するか？|
+|well-beingを高める方法|効果的な励まし発話を提示|どのような方法を使ったか？|
+|対象|高齢者|誰？|
+|対照実験|対人間 vs. 対ロボット|？　vs. ？|
+|インタラクションの期間と毎回インタラクションの長さ|長期（6週間）、週1回（毎回20分程度）|長期？短期？毎回インタラクションの長さは？|
+|評価（主観評価/客観評価）|主観評価|主観評価?客観評価?|
+
+## 調べた内容
+- **対話エージェント**が**ある方法**を使って**人間のwell-beingを高める**
+  - International Journal of Social Robotics2024年以降の論文
+  - [AAAI 2025 spring symposium](https://sites.google.com/view/aaai25-ai4health/home)2025/03/31-04/02
+    - [論文集](https://ojs.aaai.org/index.php/AAAI-SS/issue/view/654)
+    - Workshop on Large Language Models and Generative AI for Health at AAAI 2025
+    - Human-Compatible AI for Well-being: Harnessing Potential of GenAI for AI-Powered Science
+  - Human robot interaction HRI2025 Robots for a Sustainable World、Human robot interaction HRI2024
+  - RO-MAN 2024、RO-MAN 2025
+- キーワード：conversational robot, chatbot, dialogue system, interaction, wellbeing, emotional support
+
+
+## 調べた結果
+|タイトル|年|著者|学会名/雑誌名|URL|
+|:---|:---:|:---:|:---:|:---:|
+|A Brief Wellbeing Training Session Delivered by a Humanoid Social Robot: A Pilot Randomized Controlled Trial|2023|Nicole L. Robinson, Jennifer Connolly, Gavin Suddrey & David J. Kavanagh|International Journal of Social Robotics, Volume 16, pages 937–951, (2024)|[URL](https://link-springer-com.waseda.idm.oclc.org/article/10.1007/s12369-023-01054-5)|
+|Building Long-Term Human–Robot Relationships: Examining Disclosure, Perception and Well-Being Across Time|2023|Guy Laban, Arvid Kappas, Val Morrison & Emily S. Cross|International Journal of Social Robotics, Volume 16, pages 1–27, (2024)|[URL](https://link-springer-com.waseda.idm.oclc.org/article/10.1007/s12369-023-01076-z)|
+
+## 研究詳細
+### International Journal of Social Robotics, Volume 16, pages 937–951, (2024)：研究1
+- [A Brief Wellbeing Training Session Delivered by a Humanoid Social Robot: A Pilot Randomized Controlled Trial](https://link-springer-com.waseda.idm.oclc.org/article/10.1007/s12369-023-01054-5)
+- Published: 12 October 2023
+### 背景
+- 成人の心理的苦痛（psychological distress）が増加しており、効果的な心理的支援が必要。
+- social robotsは医療分野での利用が進んでいるが、特に心理的支援技術の提供に関する研究は限られている。
+- マインドフルネス（mindfulness）はストレスの緩和と心理的健康の促進に有効的が、その手法をロボットで提供する研究はまだ初期段階である。
+- この研究は、social robotsによるマインドフルネスのトレーニングの可能性と効果を評価する。
+
+### 目的
+- 自律型のヒューマノイドソーシャルロボット（autonomous humanoid robot）を使って、10分間のマインドフルネス呼吸瞑想（mindful breathing meditation）を提供することの実用性（utility）と受容性（acceptability）を調査する。
+- ロボットを用いたマインドフルネスのトレーニングと一般的な対話を比較し、心理状態に与える影響を調査する。
+- 性別と心理的苦痛（psychological distress）のレベルによる効果の違いを調査する。
+- 将来はロボットが提供する長期的な福祉プログラムの将来的な開発可能性を探り、より大規模な縦断的試験の可能性を探ることを目指す。
+
+### 対象
+- 230名の参加者が試験に参加（平均年齢29歳、SD=11.77、範囲は18–67歳）
+    - 女性108名（47%）、男性122名（53%）
+- 教育背景：71%が高等教育（higher education）を受けており、多くが大学生
+- ロボット経験は低い：M = 2.00, SD = 2.44（範囲 = 0–10）
+- プログラミング経験は少ない：M = 3.23, SD = 2.94（範囲 = 0–10）
+- 被験者属性の事前調査
+    - 収集したデータ：
+        - 年齢、性別、婚姻状況、最終学歴、現在の学習状況および研究分野、就業状況および職種
+        - 感情状態（リラックス（Relaxed）、満足感（Content）、集中力（Focused））に関するスコア（0 = 全く感じない, 10 = 非常に強く感じる）
+        - マインドフルネス経験の有無、練習頻度（毎日、毎週、隔週、毎月、数ヶ月に一回、一回か二回だけなど）
+### 実験デザインの詳細
+- ランダム化比較試験(RCT)，2つのグループに分けた比較
+- セッション時間：1回10分。ロボットとタブレットを使って実験を実施（対話とアンケート）
+    - グループ1(Technique)
+        - 内容：ロボットが1分間のマインドフルネスのトレーニングを指導し、参加者が自主的に1分間の練習をする
+        - 手順：ロボットからマインドフルネスの重要性について説明し、参加同意したら、1分間のマインドフルネスのトレーニングを指導し、そして自主的に1分間の練習をする。
+    - グループ2(Control)
+        - ロボットが基本情報（例：名前、身長、医療用途など）を説明した後、簡単な３つの質問を聞く
+        - 質問内容：Q1.How did you get here today,  Q2.which animal would you like to have as a pet, Q3.what season do you like the best. The robot gave a closed answer set for them to choose their response (i.e. car, bike, bus, walk, train, ferry).
+        - 回答後：ロボットが参加者の回答を要約し、要約した内容が正しいかどうかについて確認を求める（Yes/No）
+- 実験デザインの目的
+    - Technique条件でのマインドフルネスの効果を検証し、Control条件での待機リストのコントロールとして比較
+
+### 具体的な対話内容
+- グループ1(Technique)
+    - 内容：ロボットがマインドフルネスの重要性を説明し、1分間の呼吸法を指導。続けて自主練習を促す
+    - 選択肢：説明や練習をスキップすることも可能
+- グループ2(Control)
+    - 内容：ロボットが研究目的や自身の基本情報を説明後、交通手段や好きなペットなどに関する質問を行う
+    - 応答：回答を音声で要約し、正確性の確認を求める（Yes/No）
+
+### 使ったアンケート
+- **Kessler Psychological Distress Scale（K-10）**
+    - 過去4週間の心理的困難を評価
+    - 10項目、５件法
+        - 例：anxiety (不安), tiredness (疲労), agitation (焦燥), and depression (抑うつ), 1 = None of the time, 5 = All of the time
+    - スコア分類：低（10–15）、中（16–21）、高（22–29）、非常に高（30–50）
+    - この研究ではスコアを低苦痛（≤21）と高苦痛（≥22）の2群に分類した
+- **The Robot Incentives Scale (RIS)**
+    - perceived incentives to engage with a social robot(ロボットとの関与意欲)
+    - 3つのサブスケール
+        - 「Emotion」（感情的側面）：ロボットの好感度を評価する5項目
+        - 「Social」（社会的側面）：社会的・関係的側面を評価する3項目
+        - 「Utility」（実用性）：ロボットの実用性を評価する4項目
+    -  各項目は11段階で評価される（0 = 全く当てはまらない、10 = 非常に当てはまる）
+- **The Robot Usage Intention (RUI)**
+    - ロボットとのインタラクション意欲（短期・長期）を測定（how willing people would be to interact with the robot）
+    - 5項目の質問 (0 = Not at all, 10 = Definitely) 
+- **The Robot Disclosure Questionnaire**
+    - ロボットとの対話における以下の2つの側面を評価する
+        - 可能性 (Likelihood, Likely): ロボットと話す可能性（5項目）
+        - 快適さ (Comfort): ロボットと話す際の快適さ（5項目）
+        - 11件法：0 = Not at all, 11 = Definitely
+    - 評価対象のトピック (Topics Assessed):
+        - 非健康話題
+            - (1)カジュアルな会話トピック (Casual conversation topics)
+            - (2)課題解決やタスクの支援 (Solving a problem or getting help with a task)
+            - (3)センシティブなトピックに関する助言・支援 (Getting advice or support on a sensitive topic)
+        - 健康関連話題
+            - (4)医学的症状や病状 (Medical symptoms or conditions)
+            - (5)メンタルヘルスの症状や状態 (Mental health symptoms or conditions)
+
+### 結果
+- **グループ1(Technique)とグループ2(Control)の比較**
+    - 感情(Emotion)スコアについて、リラックス（Relaxed）、満足感（Content）、集中力（Focused）のスコア変化において、両グループ間に有意差はなかった
+    - 両グループとも、実験の前後で感情スコア（Emotion,ロボットの好感度）が有意に向上（Relaxed: F(1228) = 101.68, p < 0.001；Content: F(1228) = 58.34, p < 0.001；Focused: F(1228) = 19.62, p < 0.001）
+- **感情改善の具体的な効果**
+    - 低苦痛群（K-10 ≤ 21） は、グループ1(Technique)でグループ2(Control)より満足感（Content）が有意に向上した
+    - 性別の影響
+        - 男性はリラックス（Relaxed）スコアが女性より高かった
+        - 高苦痛群の女性（K-10 ≥ 22）は、男性および低苦痛群の女性よりリラックス（Relaxed）スコアが低かった
+- **ロボットに対する評価（Robot Evaluation）**
+    - 感情スコア（Emotion）：高苦痛群の男性は低苦痛群の男性より感情スコアが高く、女性は逆の傾向を示した
+    - 実用性スコア（Utility）：グループ2(Control)はグループ1(Technique)より高く、高苦痛群の参加者は低苦痛群より実用性スコアが高かった
+    - 社会性スコア（Social）：有意差は見られなかった
+- **ロボットとの話題選択の傾向**
+    - 健康関連話題より非健康話題を選ぶ傾向がある，非健康話題をより快適(Comfort)と感じる傾向があった
+- **性別と苦痛レベルが快適さ（Comfort）に与える影響**
+    - 高苦痛群の男性は低苦痛群の男性より非健康話題での快適さ(Comfort)が高く、高苦痛群の女性は低苦痛群の女性より快適さ(Comfort)が低かった
+    - 条件（Technique または Control）は、性別および苦痛レベルとの交互作用によって快適さ(Comfort)に影響を与えた
+
+#### 比較
+|ポイント|先行研究|自分の研究|
+|:---|:---:|:---:|
+|目的|ロボットによるマインドフルネスの提供でwell-beingを高める|励まし発話を提供する対話ロボットによって主観的幸福感を向上させる|
+|対話エージェント実体の有無|実体あり|実体あり|
+|言語/非言語|言語|言語|
+|音声/テキスト|音声＋テキスト（同じ内容、音声識別・言語処理なし）|音声のみ|
+|Woz/自動生成|自動生成（ルールベース、非Woz）|自動生成|
+|音声対話実験実施の有無|あり（対照実験）|あり（対照実験）|
+|対照実験|ロボットのマインドフルネスのトレーニング（Technique）vs. 一般対話（Control）|対人間 vs. 対ロボット|
+|対象|18-67歳の被験者230名|高齢者16名程度|
+|wellbeingとは|リラックス（Relaxed）、満足感（Content）、集中力（Focused）|subjective well-being(SWB)|
+|wellbeingを高める方法|mindfulness|効果的な励まし発話を提供|
+|インタラクションの期間と毎回インタラクションの長さ|短期、1回（10分程度）|長期（8週間予定）、週1回程度（毎回20分程度）|
+|評価（主観評価/客観評価）|ロボットとの音声＋テキストのインタラクションを通じて、リラックス（Relaxed）、満足感（Content）、集中力（Focused）が上がったかに対する主観評価|音声対話を通じてSWBが上がったかに対する主観評価|
+|評価対象|ロボットとインタラクション（マインドフルネス、対話する）**前後**の気分**変化**|対話ロボットから提供された励ましを聞いた**前後**、SWBの**変化**|
+|着目点|ロボットが10分間のマインドフルネスを提供することの実用性（utility）と受容性（acceptability）を調査、ロボットのマインドフルネスのトレーニング（Technique）と一般対話（Control）の比較|対話ロボットの励ましという言語行為がユーザに与える影響、ロボットと人間の比較|
+
+
+
+### International Journal of Social Robotics, Volume 16, pages 1–27, (2024)：研究2
+- [Building Long-Term Human–Robot Relationships: Examining Disclosure, Perception and Well-Being Across Time](https://link-springer-com.waseda.idm.oclc.org/article/10.1007/s12369-023-01076-z)
+- Published: 30 November 2023
+
+### 背景
+- 人々の心理的健康（mental health，emotional well-being）を支援するための長期的なSocial Robotsの役割に関する理解は限られている。
+- これまでの研究は一回または短期的な実験に集中し、Social Robotsが長期的な対話を通じて感情の健康（emotional health）や自己開示（Self-Disclosure）を促進する可能性については十分に探求されていない。
+- 自己開示（Self-Disclosure）は関係構築（building relationships）、感情的な健康を支援する（supporting emotional well-being）上で重要なコミュニケーション行動である。しかし、自然な環境でその効果を研究する実験はまだ少ない(remain relatively rare)
+
+### 目的
+- 長期的なSocial Robotsとの対話を通じて、被験者の自己開示の変化、ロボットに対する認識、心理的健康に与える影響を調査する
+- 対話における議題のフレーム（例：COVID-19関連のテーマや一般的なテーマ）が、自己開示、ロボットへの認識、心理的健康にどのように影響を及ぼすかを明らかにする
+
+### 対象
+- 39名（年齢18〜60歳、平均36.41歳）
+- 特徴：54%が女性、59%が大学卒以上、51.3%がフルタイムで働いている。97.4%がロボットの経験なし
+- 募集方法：Prolificを通じて募集し、安定したインターネット環境、コンピュータ、ビデオ会議の条件を備えた、週2回のセッションを5週間にわたり継続できる参加者を対象とした
+
+### 実験デザインの詳細
+- 被験者間対照実験：2グループ間デザイン（COVID-19関連テーマと一般テーマ）×10回の対話
+    - 一般グループ(General Group)：日常生活の話題（健康、社交、仕事と生活のバランス、将来の目標など）、COVID-19に関する内容は話さない
+    - COVID-19グループ(COVID-19-related Group)：日常の話題をCOVID-19の文脈で展開（例：パンデミック中の社会関係・社交状況、パンデミック中に健康を維持する方法）
+- 概要
+    - 参加者はロボットPepperとZoomを介して対話を行う
+    - 1セッションあたりの対話は30分以内、週2回、5週間にわたり、計10回のセッションを実施
+    - 各対話では、Pepperが3つの質問を提示し、1つの質問につき3回繰り返して応答を促す
+    - Pepperは事前設定されたスクリプトを使用し、WoZ法で自律応答の対話の流れを模倣
+
+### 具体的な対話内容
+- 対話の流れ
+    - (1)挨拶と簡単な自己紹介：ロボットが参加者の名前や近況を聞き、関係構築を促進する質問をする
+        - “Hello! How have you been recently?” “How was your weekend? Did you do anything interesting?”
+    - (2)テーマに関する質問：ロボットが事前にランダムで選ばれたテーマに基づき、3つの質問を提示する
+        - 一般グループ(General Group)
+            - 「最近の1週間で、どのような健康的な習慣を取り入れましたか？」
+            - 「今、あなたの生活における目標は何ですか？」
+            - 「最近の社会生活で、どんな良いことがありましたか？」
+        - COVID-19グループ(COVID-19-related Group)
+            - 「How has your work situation changed due to the pandemic?」
+            - 「How are you socializing during the pandemic?」
+            - 「パンデミック中、健康を維持するためにどんなことをしましたか？」
+            - 「パンデミックがあなたの生活目標にどのような影響を与えましたか？」
+    - (3)繰り返し質問と新しい視点の提示：各質問は3回繰り返されるが、2回目以降は新しい視点から回答を促し、より詳細な情報を引き出す工夫がされている(When questions were repeated, participants were encouraged to answer from a new perspective and share more details)
+        - “Can you think of another example or moment related to this topic?”
+        - “What about a time when you faced challenges in this area?”
+    - (4)セッションの最後：ロボットが参加者の回答に対して励ましのコメントや感謝を表明し、対話をポジティブに終了(At the end of each session, Pepper concluded the interaction by delivering an encouraging comment or expressing gratitude for the participant’s responses, thereby concluding the interaction on a positive note)
+    - “Thank you for sharing with me,”
+    - “Thank you for telling me,”
+    - “What a nice memory. Thank you for sharing with me.”
+
+### 使ったアンケート
+- **心理的健康の評価**
+    - Immediate Mood Scaler (IMS-12)：気分の変化を測定（ポジティブ感情とネガティブ感情）
+        - 12項目（例：「現在、幸せだと感じる」「最近、イライラしている」）。７件法：1（全く当てはまらない）～7（非常に当てはまる）
+    - UCLA Loneliness Scale：孤独感を測定
+        - 8項目（例：「最近、親密な友人が少ないと感じる」「孤独だと感じる」）。７件法：1（全くない）～7（常にそう感じる）
+    - Perceived Stress Scale (PSS)：ストレスレベルを測定
+        - 10項目（例：「過去1ヶ月間でコントロールできない出来事がどれくらいあったか」）。５件法：1（全く当てはまらない）～5（非常に当てはまる）
+- **自己開示の評価**
+    - Jourard’s Self-Disclosure Questionnaire：主観的な自己開示の評価
+        - 10項目（例：「私は家族についての話題をどれくらい開示したか」）。７件法：1（全く開示していない）～7（非常に多く開示した）
+    - 発話時間と語数分析：客観的な開示度（録音データを基に計測）
+        - 発話時間（秒）と発話語数（単語数）に対して分析。ツール：PythonのParselmouthライブラリとIBM Watson音声認識エンジン
+- **ロボットに対する認識**
+    - Friendliness and Warmth：ロボットの親しみやすさの評価
+        - 6項目（例：「Pepperは親切だと思う」「Pepperは温かみがある」）。７件法：1（全く当てはまらない）～7（非常に当てはまる）
+    - Communication Competency：ロボットのコミュニケーション能力の評価
+        - 4項目（例：「Pepperは私の話を理解しているように感じる」）。７件法：1（全く当てはまらない）～7（非常に当てはまる）
+
+### 結果
+- **心理的健康の変化**
+    - Pepperと対話後、両グループとも
+        - Immediate Mood Scaler (IMS-12)：ポジティブ感情のスコアが有意に上昇した
+        - UCLA Loneliness Scale (ULS-8)：孤独感が有意に減少した
+            - ただし、COVID-19関連グループの減少量 < 一般グループの減少量（p < 0.05）
+        - Perceived Stress Scale (PSS)：ストレスレベルは全体的に有意な変化なし
+    - 長期的な対話を通じて孤独感が有意に減少した
+- **自己開示の変化**
+    - Pepperと対話後、両グループとも
+        - 主観的自己開示のスコアが優位に増えた：セッション回数が増えると、参加者は徐々により多くの個人情報を開示する傾向（発話時間・発話語数の増加）
+            - 発話時間：両グループとも増えたが、COVID-19関連グループと一般グループの間で顕著な差はない
+            - 発話語数：Pepperとの対話を重ねるほど増える
+        - 対話フレームは自己開示行動に顕著な影響を与えなかった（一般グループとCOVID-19グループ差がない）
+- **ロボットに対する認識の変化**
+    - Pepperと対話後、両グループとも
+        - Friendliness and Warmth（ロボットの親しみやすさの評価）
+            - 一般グループ：スコアが継続的に上昇（β = 1.82, p < 0.001）
+            - COVID-19関連グループ：変化が緩やか（p > 0.05）
+        - Communication Competency（ロボットのコミュニケーション能力の評価）
+            -　両グループとも：セッション後半でロボットの理解度をより高く評価（β = 0.64, p < 0.05） 
+
+
+#### 比較
+|ポイント|先行研究|自分の研究|
+|:---|:---:|:---:|
+|目的|ロボットと対話することによって、心理的健康（ポジティブ感情の向上、孤独感の軽減、ストレスの低減）を促進する|励まし発話を提供する対話ロボットによって主観的幸福感を向上させる|
+|対話エージェント実体の有無|実体あり|実体あり|
+|言語/非言語|言語|言語|
+|音声/テキスト|音声|音声|
+|Woz/自動生成|Woz（事前スクリプトに基づくインタラクション）|自動生成|
+|音声対話実験実施の有無|あり（オンライン）|あり（対面）|
+|対照実験|COVID-19関連 vs. 一般的な日常話題を提示するロボット|対人間 vs. 対ロボット|
+|対象|成人（18〜60歳、39名）|高齢者16名程度|
+|wellbeingとは|emotional well-being(ポジティブ感情の向上、孤独感の軽減、ストレスの低減)|subjective well-being(SWB)|
+|wellbeingを高める方法|自己開示を促進する対話を提供(「最近1週間でどんな良いことがありましたか？」)|効果的な励まし発話を提供（「それは素晴らしいことですね。」）|
+|インタラクションの期間と毎回インタラクションの長さ|長期（5週間)、週2回（毎回30分程度）、合計10回|長期（8週間予定）、週1回程度（毎回20分程度）、合計8回|
+|評価（主観評価/客観評価）|音声対話を通じて、対話前後の気分、孤独感、ストレス、自己開示程度対する主観評価|音声対話を通じてSWBが上がったかに対する主観評価|
+|評価対象|対話する**前後**、心理的健康の**変化**|対話ロボットから提供された励ましを聞いた**前後**、SWBの**変化**|
+|着目点|①長期的なSocial Robotsとの対話が、自己開示行動、ロボットに対する認識、心理的健康に与える影響を調査。②ロボットによるCOVID-19関連テーマと一般テーマの効果の比較|対話ロボットの励ましという言語行為がユーザに与える影響、ロボットと人間の比較|
+
+## ターゲット学会報告の目的
+### 1. 2018年以降の「**対話エージェント**が**ある方法**を使って**人間のwell-beingを高める**先行研究」の共有（前のまとめからまだ調べきれていない先行研究の追加）
+- **ある方法**はどのような方法か？
+    - 言語のインタラクション＆非言語のインタラクション、長期＆短期、single interaction＆repeated interaction
+- **well-being**はどのようなものか？
+    - よりポジティブになる、孤独感軽減、ストレス軽減、psychological well-being、satisfaction, calming, and happiness、comfort、Subjective Self-Disclosureなど
+- どのような**学会/雑誌**か？
+    - HAIシンポジウム
+    - 人工知能学会全国大会
+    - AAAI(Association for the Advancement of Artificial Intelligence)
+    - HAI(International conference on human-agent interaction)
+    - ICSR(International conference)
+    - HRI(ACM/IEEE International Conference on Human-Robot Interaction)
+    - RO-MAN(IEEE International Workshop on Robot and Human Communication)
+    - ACIIW(International Conference on Afective Computing and Intelligent Interaction Workshops and Demos)
+    - Journal of Medical Internet Research
+        - JMIR AI：A new peer reviewed journal focused on research and applications for the health artificial intelligence (AI) community
+        - JMIR Mental Health：Internet interventions, technologies, and digital innovations for mental health and behavior change.JMIR Mental Health is the official journal of the Society of Digital Psychiatry. 
+    - International Journal of Social Robotics
+    - User Modeling and User-Adapted Interaction
+        - →　最も多いのはHRI（学会）、RO-MAN（学会）、International Journal of Social Robotics（雑誌）。
+        - →　これから高齢者に関連する学会や雑誌も検討し始めるべきだと思う。wellbeingだけでなく、ロボット、音声対話、高齢者の健康や福祉に関する学会や論文をさらに調査する必要ある
+            - 例：IROS(IEEE/RSJ International Conference on Intelligent Robots and Systems)、ICRA(IEEE International Conference on Robotics and Automation)、RSS(Robotics: Science and Systems)など
+
+
+### 2.今まで調べてきた先行研究から、自分の研究の立ち位置を明確
+#### 自分が選んだ研究領域がどれだけ進んでいるか、何が未解明なのかを取り上げる
+#### 自分はどこからどこまでを明確にするのか
+1. **一回のやりとりにおける悩みの種類に応じた効果的な励ましの方法の解明（人間との対話、ロボットとの対話）**
+    - 先行研究：人間との対話については一部の先行研究が存在する
+    - しかし、ロボットとの対話に関する研究はまだ行われていない
+    - 人間とロボットの励まし方法＆励まし効果の比較研究もほぼ存在しない　→　**【ここは自分の研究の新規性：ロボットとの対話を通じた励ましの効果を明らかにする】**
+        - 既存研究では、音学の分野で人間の声とロボットの声を比較した研究はあるが、人間 vs. ロボットのインタラクション比較研究（言語音声による比較研究）はほとんどない
+
+2. **ロボット vs. 人間：インタラクションの比較**
+    - 先行研究：wellbeing向上における異なるロボットの効果の比較はある
+    - 対話相手が人間かロボットかの効果の比較は少ない（→　**【今まで調べてきた結果：ここは過去の研究の空白に該当するとほぼ判断できる】**）
+    - 人間とロボットの言語的なインタラクションの効果を比較し、ロボット特有の役割を調査　→ **【ここは自分の研究の新規性】**
+
+3. **エージェントと人間のLong-term Interaction研究**
+    - HAI分野では、「Long-term interactionの研究が少ない」という問題意識が2023年以降から提起されている
+    - しかし、2024年時点で、実際に**長期間のEmpirical Studies（実証研究）** を行った研究は少ない　　　→　**【ここは自分の研究のメリット:Empirical studiesを行う】**
+        - Empirical studiesであっても、自然的社会環境（家庭、学校、コミュニティなど）での長期間のロボットインタラクションはほとんど行われていない
+            - 先行研究：自然環境に近い、非実験室環境での研究が足りない
+        - Empirical studiesであっても、長期間の対面実験＋主観評価は非常に少ない。
+            - 多くの先行研究は：①短期間の対面実験＋主観評価、②長期間のオンライン実験＋主観評価、③短期間のビデオ視聴実験＋客観評価
+    - 「実体を持つロボット」＋「well-being向上」＋「言語音声」＋「長期」の組み合わせに関する研究はさらに少ない
+    - WoZ法や高度スクリプト化された対話を用いた研究がまだ主流であり、自動生成の音声対話に関する研究はまだ多くない
+        - 気づいた点（以下の制約がHRI/HAI研究の実証研究をはばんでいるかも）
+            - ①LLM技術が発展しているが、HRI/HAI研究の実証研究は依然として実験室環境に限定される傾向がある
+            - ②研究室内のロボットの数が限られており、コストが高い
+            - ③操作の難しさ：熟練したWoZ操作者が必要であり、その技術が広く一般化していない
+        - 感想
+            - これから実体を持つロボットを活用した自動生成の音声対話に関する研究はさらに増えると期待される
+            - 将来的には、自然環境に近い非実験室環境でのロボット利用が拡大し、より実践的な研究が可能になると考えられる
+
+4. **対話エージェントがある方法を使って高齢者のwell-beingを高める先行研究**
+    - well-beingを向上させるロボットの研究は存在するが、そのほとんどが非言語インタラクション（触覚）を重視
+    - 音声対話によるwellbeing向上に関する研究は限られている
+    - 「実体を持つロボット」＋「言語音声」＋「well-being向上」＋「長期間」の組み合わせを探る研究はさらに少ない
+        - → **【高齢者を対象にした音声対話の実証研究の不足】**、
+        - → **【自分の研究の新規性：励まし発話を通じたwell-being向上の可能性を、実体ロボットを用いて検証。高齢者を対象に、音声対話による心理的健康の変化を長期間追跡】**
+
+5. **HAI/HRI研究における「Long-term」の定義**
+    - 先行研究：HAI/HRI分野における「Long-term」の定義と長さは明確ではない
+    - 一部の研究では4～5週間を「Long-term」としているが、統一基準は存在しない　→ **【Long-termの基準を明確化する必要があると思うが、、ここで自分の研究では8週間を「Long-term」と位置づけ、既存研究より長期間のデータを収集】**
+
+#### 自分の研究の立ち位置
+- 新規性
+    - ロボットとの対話における励まし発話の効果を明らかにする
+    - 長期間の対話に基づくwell-being向上の可能性を検証する
+    - 人間とロボットの対話効果を比較する
+    - 長期間＋実体を持つロボット＋自動生成による音声対話実験＋対面実験＋高齢者対象
+- Empirical Studiesの充実の貢献
+    - 完全な自然環境（natural environment）ではないが、非実験室環境でのEmpirical Studiesを行う
+
+ 
+## いただいたコメント（後ほど追記）
+- 中村くんからの質問
+    - 研究2で、実験群と対照群の設置理由は？
+        - 「To build a more complete understanding of the application of social robots in different emotional settings, we were also interested in the role of the interaction’s discussion frame.」
+        - 「RQ2：To what extent are people’s self-disclosures, per- ceptions of the robot, and well-being, affected due to the discussion frame during long-term interactions with a social robot?」
+
+- 菊池先生からのアドバイス
+    - 秋学期の報告では２つの研究を詳しく紹介する必要ない、今回の後半の部分だけ報告OK
+    - 博士学生：HRI（学会）、RO-MAN（学会）、International Journal of Social Robotics（雑誌）の過去の内容・最新動向を把握する（新しい内容を常に見る）
+    - この論文を見る：[Human–Robot Companionship: Current Trends and Future Agenda](https://link.springer.com/article/10.1007/s12369-024-01160-y)
