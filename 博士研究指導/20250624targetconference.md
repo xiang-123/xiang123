@@ -39,9 +39,8 @@
 - **対話エージェント**が**ある方法**を使って**人間のwell-beingを高める**
   - [AAAI 2025 spring symposium](https://sites.google.com/view/aaai25-ai4health/home) (2025/03/31-04/02)の[論文集](https://ojs.aaai.org/index.php/AAAI-SS/issue/view/654)
     - Workshop on Large Language Models and Generative AI for Health at AAAI 2025
+  - [International Journal of Social Robotics](https://link-springer-com.waseda.idm.oclc.org/journal/12369/articles)の論文
   - Human robot interaction HRI2025 Robots for a Sustainable World、Human robot interaction HRI2024
-  - International Journal of Social Robotics2024年以降の論文
-  - RO-MAN 2024、RO-MAN 2025
 - キーワード：conversational robot, chatbot, dialogue system, interaction, wellbeing, emotional support
 
 
@@ -54,7 +53,7 @@
 
 
 
-|Building Long-Term Human–Robot Relationships: Examining Disclosure, Perception and Well-Being Across Time|2023|Guy Laban, Arvid Kappas, Val Morrison & Emily S. Cross|International Journal of Social Robotics, Volume 16, pages 1–27, (2024)|[URL](https://link-springer-com.waseda.idm.oclc.org/article/10.1007/s12369-023-01076-z)|
+|Coping with Emotional Distress via Self-Disclosure to Robots: An Intervention with Caregivers|2025|Guy Laban, Val Morrison, Arvid Kappas & Emily S. Cross|International Journal of Social Robotics, Volume 16, pages 1–27, (2024)|[URL](https://link-springer-com.waseda.idm.oclc.org/article/10.1007/s12369-024-01207-0)|
 
 
 ## 研究詳細
