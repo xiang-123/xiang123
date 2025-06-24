@@ -38,10 +38,8 @@
 ## 調べた内容
 - **対話エージェント**が**ある方法**を使って**人間のwell-beingを高める**
   - [AAAI 2025 spring symposium](https://sites.google.com/view/aaai25-ai4health/home) (2025/03/31-04/02)の[論文集](https://ojs.aaai.org/index.php/AAAI-SS/issue/view/654)
-    - Workshop on Large Language Models and Generative AI for Health at AAAI 2025
   - [International Journal of Social Robotics](https://link-springer-com.waseda.idm.oclc.org/journal/12369/articles)の論文
-  - Human robot interaction HRI2025 Robots for a Sustainable World、Human robot interaction HRI2024
-- キーワード：conversational robot, chatbot, dialogue system, interaction, wellbeing, emotional support
+- キーワード：conversational robot, chatbot, dialogue system, interaction, wellbeing, emotional supportなど
 
 
 ## 調べた結果
@@ -49,11 +47,8 @@
 |:---|:---:|:---:|:---:|:---:|
 |An Interactive Monitoring Robot for Dementia Mitigation via Daily Conversations with Multiple LLMs|2025|Masayuki Numao, Masahiro Kawamura|AAAI 2025 spring symposium|[URL](https://ojs.aaai.org/index.php/AAAI-SS/article/view/35595/37750)|
 |Dialogic Learning in Child-Robot Interaction: A Hybrid Approach toPersonalized Educational Content Generation|2025|Elena Malnatsky, Shenghui Wang, Koen V. Hindriks, Mike E.U. Ligthart|AAAI 2025 spring symposium|[URL](https://ojs.aaai.org/index.php/AAAI-SS/article/view/35622/37777)|
-
-
-
-
-|Coping with Emotional Distress via Self-Disclosure to Robots: An Intervention with Caregivers|2025|Guy Laban, Val Morrison, Arvid Kappas & Emily S. Cross|International Journal of Social Robotics, Volume 16, pages 1–27, (2024)|[URL](https://link-springer-com.waseda.idm.oclc.org/article/10.1007/s12369-024-01207-0)|
+|Coping with Emotional Distress via Self-Disclosure to Robots: An Intervention with Caregivers|2025|Guy Laban, Val Morrison, Arvid Kappas & Emily S. Cross|International Journal of Social Robotics(2025/05/26)|[URL](https://link-springer-com.waseda.idm.oclc.org/article/10.1007/s12369-024-01207-0)|
+|Do people with social anxiety feel anxious about interacting with a robot?|2020|Tatsuya Nomura, Takayuki Kanda, Tomohiro Suzuki & Sachie Yamada|International Journal of Social Robotics, Volume 35, pages 381–390, (2020)|[URL](https://link-springer-com.waseda.idm.oclc.org/article/10.1007/s00146-019-00889-9)|
 
 
 ## 研究詳細
