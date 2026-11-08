@@ -44,6 +44,7 @@
 - キーワード：AI companion, chatbot, companionship, self-disclosure, social support, psychological well-being など
 
 ## 紹介する論文
+
 |タイトル|年|著者|学会名/雑誌名|URL|
 |:---|:---:|:---:|:---:|:---:|
 |Interaction with AI companions and psychological well-being|2026|Yutong Zhang, Dora Zhao, Jeffrey T. Hancock, Robert Kraut, Diyi Yang|[Nature Human Behaviour](https://www.nature.com/nathumbehav/), 10, 1966–1980 (2026/08/04 online)|[URL](https://doi.org/10.1038/s41562-026-02516-2)|
@@ -100,6 +101,7 @@
 - → 本研究は、chatbot利用を「一様な行動」として扱わず、**関係的な視点（relational lens）**から、**利用強度・自己開示・現実の社会的支援**がどのように組み合わさってwell-beingと関連するかを調べた
 
 #### 論文で使われる2つの仮説
+
 |仮説|内容|この論文で確かめたこと|
 |:---|:---|:---|
 |社会的補償仮説（Social compensation）|現実の人間関係が少ない人は、オンラインやAIなど別のつながりで不足を補おうとする|現実の親しい人が少ない人ほど、AIをcompanionship目的で使うのか／それでwell-beingが補われるのか|
@@ -159,6 +161,7 @@
 - →🤔この図は「操作→効果」の実験手順ではなく、質問紙と履歴をどう組み合わせて「関連」を見るかを示す図
 
 #### Companionshipの3つの測り方（triangulation：三角測量）
+
 |指標名|何をしたか|値の意味|妥当性の確認|
 |:---|:---|:---|:---|
 |Companionship<sub>Prim.</sub>|主な利用目的を4つ（relational / entertainment / productivity / curiosity）から1つ選ぶ|relationalを選んだら1、それ以外0|—（強制選択のため複合的な利用を捉えにくい）|
@@ -168,6 +171,7 @@
 - 🤔3つは「同じもの」を測っているわけではない：ロールプレイが主目的の人も会話では悩み相談をするかもしれないし、恋愛的な会話もフィクションとして演じているだけかもしれない
 
 #### その他の指標
+
 |指標|尺度|内容|信頼性|
 |:---|:---|:---|:---:|
 |主観的well-being|Comprehensive Inventory of Thriving（CIT）から6項目|生活満足度、ポジティブ感情、ネガティブ感情（逆転）、孤独感（逆転）、社会的支援、所属感。各構成概念で最も負荷の高い1項目を選び平均|α = 0.88|
@@ -413,6 +417,7 @@
 ### 1. 全体の構造
 
 #### Introductionの段落設計図（p.1966–1967）
+
 |段落|役割|内容の要約|
 |:---:|:---|:---|
 |1|前提と変化|社会的関係はwell-beingに重要 → 技術はつながり方を変えてきた → LLMは「相手」まで変える|
@@ -507,6 +512,7 @@ flowchart LR
 - 表現：コロンの後で more profound shift の中身を説明する。not only how ... but also whom ... は形をそろえた並列で、「手段」から「相手」への転換を印象的に示す
 
 #### 1文削除テスト：どの文を削ると何が壊れるか
+
 |削る文|壊れること|
 |:---:|:---|
 |S2|S1が根拠のない主張になる|
@@ -598,6 +604,7 @@ flowchart LR
 ---
 
 ### 5. 読みやすさを作る技術のまとめ
+
 |技術|原論文での使われ方|自分が使うときの考え方|
 |:---|:---|:---|
 |対比を1文に収める|While ... / Despite ... / As ... has remained ..., ... has evolved|Howeverを足す前に、**何と何が対立しているのか**を1文で示せるか考える|
